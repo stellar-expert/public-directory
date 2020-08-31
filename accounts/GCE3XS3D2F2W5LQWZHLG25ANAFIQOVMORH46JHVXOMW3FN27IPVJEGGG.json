@@ -1,0 +1,9 @@
+{
+  "address": "GCE3XS3D2F2W5LQWZHLG25ANAFIQOVMORH46JHVXOMW3FN27IPVJEGGG",
+  "domain": "stellarpay.org",
+  "name": "StellarPay Bank Reserve",
+  "tags": [
+    "anchor"
+  ],
+  "version": 0
+}
