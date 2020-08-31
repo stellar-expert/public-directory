@@ -1,0 +1,10 @@
+{
+  "address": "GCO4EFT6KUOQKVZO2O4GR5CJKMARBORXRE7KAKH36ZFAX662ZHINQ6UA",
+  "domain": "stellar.org",
+  "name": "SDF Swap Account",
+  "tags": [
+    "reserved",
+    "sdf"
+  ],
+  "version": 0
+}
