@@ -1,0 +1,10 @@
+{
+  "address": "GBETHKBL5TCUTQ3JPDIYOZ5RDARTMHMEKIO2QZQ7IOZ4YC5XV3C2IKYU",
+  "domain": "fchain.io",
+  "name": "Firefly",
+  "tags": [
+    "anchor",
+    "issuer"
+  ],
+  "version": 0
+}
