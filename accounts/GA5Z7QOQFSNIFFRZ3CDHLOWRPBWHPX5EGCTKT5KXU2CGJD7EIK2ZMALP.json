@@ -1,0 +1,9 @@
+{
+  "address": "GA5Z7QOQFSNIFFRZ3CDHLOWRPBWHPX5EGCTKT5KXU2CGJD7EIK2ZMALP",
+  "domain": "stellarpay.org",
+  "name": "StellarPay Monthly Bank Wallet",
+  "tags": [
+    "anchor"
+  ],
+  "version": 0
+}
