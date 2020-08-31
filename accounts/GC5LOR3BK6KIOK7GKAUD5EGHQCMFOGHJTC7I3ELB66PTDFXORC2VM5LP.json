@@ -1,0 +1,10 @@
+{
+  "address": "GC5LOR3BK6KIOK7GKAUD5EGHQCMFOGHJTC7I3ELB66PTDFXORC2VM5LP",
+  "domain": "apay.io",
+  "name": "Papaya",
+  "tags": [
+    "anchor",
+    "issuer"
+  ],
+  "version": 0
+}
