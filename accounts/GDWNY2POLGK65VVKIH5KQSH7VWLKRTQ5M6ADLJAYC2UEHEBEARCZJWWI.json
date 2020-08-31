@@ -1,0 +1,10 @@
+{
+  "address": "GDWNY2POLGK65VVKIH5KQSH7VWLKRTQ5M6ADLJAYC2UEHEBEARCZJWWI",
+  "domain": "stellar.org",
+  "name": "SDF Inflation Destination",
+  "tags": [
+    "reserved",
+    "sdf"
+  ],
+  "version": 0
+}
