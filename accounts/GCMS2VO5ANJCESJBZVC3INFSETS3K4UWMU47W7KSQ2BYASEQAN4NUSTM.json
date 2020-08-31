@@ -1,0 +1,10 @@
+{
+  "address": "GCMS2VO5ANJCESJBZVC3INFSETS3K4UWMU47W7KSQ2BYASEQAN4NUSTM",
+  "domain": "fchain.io",
+  "name": "Firefly",
+  "tags": [
+    "anchor",
+    "issuer"
+  ],
+  "version": 0
+}
