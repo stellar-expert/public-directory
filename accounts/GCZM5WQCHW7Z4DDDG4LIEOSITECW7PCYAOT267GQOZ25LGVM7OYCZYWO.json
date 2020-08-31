@@ -1,0 +1,10 @@
+{
+  "address": "GCZM5WQCHW7Z4DDDG4LIEOSITECW7PCYAOT267GQOZ25LGVM7OYCZYWO",
+  "domain": "nexo.io",
+  "name": "Nexo",
+  "tags": [
+    "custodian",
+    "wallet"
+  ],
+  "version": 0
+}
