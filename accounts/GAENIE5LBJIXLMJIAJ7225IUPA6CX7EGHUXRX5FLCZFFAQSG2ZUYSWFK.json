@@ -1,0 +1,10 @@
+{
+  "address": "GAENIE5LBJIXLMJIAJ7225IUPA6CX7EGHUXRX5FLCZFFAQSG2ZUYSWFK",
+  "domain": "stellar.org",
+  "name": "SDF Swap Account",
+  "tags": [
+    "reserved",
+    "sdf"
+  ],
+  "version": 0
+}
