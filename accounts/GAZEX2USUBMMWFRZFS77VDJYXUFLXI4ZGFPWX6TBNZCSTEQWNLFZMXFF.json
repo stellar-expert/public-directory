@@ -1,0 +1,10 @@
+{
+  "address": "GAZEX2USUBMMWFRZFS77VDJYXUFLXI4ZGFPWX6TBNZCSTEQWNLFZMXFF",
+  "domain": "fchain.io",
+  "name": "Firefly",
+  "tags": [
+    "anchor",
+    "issuer"
+  ],
+  "version": 0
+}
