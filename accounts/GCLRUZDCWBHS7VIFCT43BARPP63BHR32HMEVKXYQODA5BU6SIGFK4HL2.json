@@ -1,0 +1,11 @@
+{
+  "address": "GCLRUZDCWBHS7VIFCT43BARPP63BHR32HMEVKXYQODA5BU6SIGFK4HL2",
+  "domain": "tonaira.com",
+  "name": "ToNaira",
+  "tags": [
+    "anchor",
+    "issuer",
+    "unsafe"
+  ],
+  "version": 0
+}
