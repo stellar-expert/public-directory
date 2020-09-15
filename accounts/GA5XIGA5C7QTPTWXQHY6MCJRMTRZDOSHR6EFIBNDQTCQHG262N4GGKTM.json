@@ -1,9 +1,10 @@
 {
   "address": "GA5XIGA5C7QTPTWXQHY6MCJRMTRZDOSHR6EFIBNDQTCQHG262N4GGKTM",
-  "domain": "www.kraken.com",
+  "domain": "kraken.com",
   "name": "Kraken",
   "tags": [
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
