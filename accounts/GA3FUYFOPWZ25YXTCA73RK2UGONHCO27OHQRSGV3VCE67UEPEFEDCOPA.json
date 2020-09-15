@@ -3,7 +3,7 @@
   "domain": "xlmpool.com",
   "name": "XlmPool",
   "tags": [
-    "inflation-pool"
+    "obsolete-inflation-pool"
   ],
-  "version": 0
+  "version": 1
 }
