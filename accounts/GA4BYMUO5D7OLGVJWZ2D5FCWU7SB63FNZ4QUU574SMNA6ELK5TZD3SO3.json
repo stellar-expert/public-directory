@@ -3,9 +3,9 @@
   "domain": "cryptomover.com",
   "name": "Cryptomover",
   "tags": [
-    "anchor",
     "issuer",
-    "exchange"
+    "exchange",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
