@@ -3,8 +3,8 @@
   "domain": "stellar.org",
   "name": "SDF User Acquisition - Marketing Support",
   "tags": [
-    "reserved",
-    "sdf"
+    "sdf",
+    "custodian"
   ],
-  "version": 0
+  "version": 1
 }
