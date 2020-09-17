@@ -4,7 +4,7 @@
   "name": "BitGo",
   "tags": [
     "custodian",
-    "unsafe"
+    "memo-required"
   ],
-  "version": 1
+  "version": 2
 }
