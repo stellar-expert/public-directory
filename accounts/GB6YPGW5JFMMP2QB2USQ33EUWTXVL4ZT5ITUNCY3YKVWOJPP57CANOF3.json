@@ -3,7 +3,8 @@
   "domain": "bittrex.com",
   "name": "Bittrex",
   "tags": [
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
