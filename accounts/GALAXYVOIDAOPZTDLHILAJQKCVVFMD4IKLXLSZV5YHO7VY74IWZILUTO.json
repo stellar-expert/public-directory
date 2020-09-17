@@ -2,7 +2,7 @@
   "address": "GALAXYVOIDAOPZTDLHILAJQKCVVFMD4IKLXLSZV5YHO7VY74IWZILUTO",
   "name": "Burn Account",
   "tags": [
-    "reserved"
+    "custodian"
   ],
-  "version": 0
+  "version": 1
 }
