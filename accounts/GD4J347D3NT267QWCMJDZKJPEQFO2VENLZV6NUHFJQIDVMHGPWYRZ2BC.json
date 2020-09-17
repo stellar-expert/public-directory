@@ -3,7 +3,8 @@
   "domain": "bitgo.com",
   "name": "BitGo",
   "tags": [
-    "custodian"
+    "custodian",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
