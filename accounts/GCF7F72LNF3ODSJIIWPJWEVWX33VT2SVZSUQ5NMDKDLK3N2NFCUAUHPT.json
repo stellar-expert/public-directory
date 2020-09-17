@@ -1,0 +1,10 @@
+{
+  "address": "GCF7F72LNF3ODSJIIWPJWEVWX33VT2SVZSUQ5NMDKDLK3N2NFCUAUHPT",
+  "domain": "poloniex.com",
+  "name": "Poloniex",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "version": 0
+}
