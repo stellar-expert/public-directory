@@ -3,7 +3,8 @@
   "domain": "bitfinex.com",
   "name": "Bitfinex",
   "tags": [
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
