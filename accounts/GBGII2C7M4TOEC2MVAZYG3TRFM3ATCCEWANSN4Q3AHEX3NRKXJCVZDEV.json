@@ -1,0 +1,10 @@
+{
+  "address": "GBGII2C7M4TOEC2MVAZYG3TRFM3ATCCEWANSN4Q3AHEX3NRKXJCVZDEV",
+  "domain": "okex.com",
+  "name": "OKEX",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "version": 0
+}
