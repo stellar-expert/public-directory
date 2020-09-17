@@ -1,9 +1,10 @@
 {
   "address": "GCXDR4QZ4OTVX6433DPTXELCSEWQ4E5BIPVRRJMUR6M3NT4JCVIDALZO",
-  "domain": "gopax.co.kr",
+  "domain": "gopax.com",
   "name": "GOPAX",
   "tags": [
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
