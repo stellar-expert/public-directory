@@ -3,7 +3,7 @@
   "domain": "stellarterm.com",
   "name": "StellarTerm Pool",
   "tags": [
-    "inflation-pool"
+    "obsolete-inflation-pool"
   ],
-  "version": 0
+  "version": 1
 }
