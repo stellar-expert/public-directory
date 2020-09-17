@@ -3,7 +3,8 @@
   "domain": "heir.io",
   "name": "Heir",
   "tags": [
-    "anchor"
+    "anchor",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
