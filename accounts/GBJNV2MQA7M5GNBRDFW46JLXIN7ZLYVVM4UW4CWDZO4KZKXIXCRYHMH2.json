@@ -3,7 +3,8 @@
   "domain": "www.kucoin.com",
   "name": "KuCoin Deposits",
   "tags": [
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
