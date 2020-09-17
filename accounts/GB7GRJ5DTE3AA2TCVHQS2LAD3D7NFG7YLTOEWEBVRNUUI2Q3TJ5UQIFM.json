@@ -3,7 +3,8 @@
   "domain": "btc38.com",
   "name": "BTC38",
   "tags": [
-    "exchange"
+    "exchange",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
