@@ -3,7 +3,8 @@
   "domain": "points.network",
   "name": "PointsNetwork",
   "tags": [
-    "issuer"
+    "issuer",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
