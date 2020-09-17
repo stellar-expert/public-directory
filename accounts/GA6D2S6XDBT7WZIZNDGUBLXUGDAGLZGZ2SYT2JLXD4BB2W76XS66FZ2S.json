@@ -3,7 +3,8 @@
   "domain": "stellar.org",
   "name": "SDF Early Employee Grants",
   "tags": [
-    "reserved"
+    "custodian",
+    "sdf"
   ],
-  "version": 0
+  "version": 1
 }
