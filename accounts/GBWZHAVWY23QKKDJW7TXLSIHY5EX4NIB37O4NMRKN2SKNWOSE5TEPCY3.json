@@ -5,7 +5,7 @@
   "tags": [
     "anchor",
     "issuer",
-    "exchange"
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
