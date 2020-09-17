@@ -3,7 +3,8 @@
   "domain": "cex.io",
   "name": "CEX.IO",
   "tags": [
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
