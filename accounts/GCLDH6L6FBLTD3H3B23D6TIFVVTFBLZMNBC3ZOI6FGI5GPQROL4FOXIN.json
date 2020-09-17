@@ -3,7 +3,8 @@
   "domain": "ripplefox.com",
   "name": "RippleFox",
   "tags": [
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
