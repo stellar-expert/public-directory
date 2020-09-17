@@ -2,7 +2,7 @@
   "address": "GBEZOC5U4TVH7ZY5N3FLYHTCZSI6VFGTULG7PBITLF5ZEBPJXFT46YZM",
   "name": "Network Upgrade Reserve",
   "tags": [
-    "reserved"
+    "custodian"
   ],
-  "version": 0
+  "version": 1
 }
