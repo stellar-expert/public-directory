@@ -3,7 +3,8 @@
   "domain": "exrates.me",
   "name": "Exrates",
   "tags": [
-    "exchange"
+    "exchange",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
