@@ -3,7 +3,8 @@
   "domain": "www.anchorusd.com",
   "name": "AnchorUSD",
   "tags": [
-    "anchor"
+    "anchor",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
