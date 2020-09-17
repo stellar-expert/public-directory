@@ -3,7 +3,8 @@
   "domain": "indodax.com",
   "name": "IndoDax",
   "tags": [
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
