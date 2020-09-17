@@ -3,7 +3,8 @@
   "domain": "freight-coin.com",
   "name": "FreightCoin",
   "tags": [
-    "issuer"
+    "issuer",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
