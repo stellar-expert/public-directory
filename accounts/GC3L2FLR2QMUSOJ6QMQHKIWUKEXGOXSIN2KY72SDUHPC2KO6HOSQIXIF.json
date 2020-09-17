@@ -4,7 +4,8 @@
   "name": "LEVELG",
   "tags": [
     "anchor",
-    "issuer"
+    "issuer",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
