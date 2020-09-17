@@ -3,7 +3,8 @@
   "domain": "x.token.io",
   "name": "TokenIO",
   "tags": [
-    "anchor"
+    "anchor",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
