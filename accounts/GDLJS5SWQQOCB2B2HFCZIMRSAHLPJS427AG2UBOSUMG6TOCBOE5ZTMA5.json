@@ -1,9 +1,10 @@
 {
   "address": "GDLJS5SWQQOCB2B2HFCZIMRSAHLPJS427AG2UBOSUMG6TOCBOE5ZTMA5",
   "domain": "exmo.com",
-  "name": "EXMO Exchange",
+  "name": "EXMO Deposits",
   "tags": [
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
