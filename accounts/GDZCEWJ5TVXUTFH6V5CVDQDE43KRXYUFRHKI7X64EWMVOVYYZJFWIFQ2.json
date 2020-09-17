@@ -3,7 +3,8 @@
   "domain": "aex.com",
   "name": "AEX Exchange",
   "tags": [
-    "exchange"
+    "exchange",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
