@@ -4,7 +4,8 @@
   "name": "PapayaSwap",
   "tags": [
     "anchor",
-    "issuer"
+    "memo-required",
+    "exchange"
   ],
-  "version": 0
+  "version": 1
 }
