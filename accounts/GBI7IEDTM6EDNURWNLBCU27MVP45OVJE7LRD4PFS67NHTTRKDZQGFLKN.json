@@ -5,7 +5,8 @@
   "tags": [
     "wallet",
     "anchor",
-    "exchange"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "version": 1
 }
