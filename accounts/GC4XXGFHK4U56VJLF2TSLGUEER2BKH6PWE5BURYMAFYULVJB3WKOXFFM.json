@@ -1,0 +1,10 @@
+{
+  "address": "GC4XXGFHK4U56VJLF2TSLGUEER2BKH6PWE5BURYMAFYULVJB3WKOXFFM",
+  "domain": "exmo.com",
+  "name": "EXMO Cold Storage",
+  "tags": [
+    "exchange",
+    "custodian"
+  ],
+  "version": 0
+}
