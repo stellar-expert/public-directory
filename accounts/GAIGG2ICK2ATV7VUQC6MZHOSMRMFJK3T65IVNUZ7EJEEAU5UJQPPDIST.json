@@ -3,7 +3,8 @@
   "domain": "steemanchor.com",
   "name": "SteemAnchor",
   "tags": [
-    "anchor"
+    "anchor",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
