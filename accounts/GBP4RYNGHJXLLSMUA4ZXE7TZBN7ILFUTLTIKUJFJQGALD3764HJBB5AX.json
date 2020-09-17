@@ -3,7 +3,8 @@
   "domain": "coinbase.com",
   "name": "Coinbase ColdStorage",
   "tags": [
-    "exchange"
+    "exchange",
+    "custodian"
   ],
-  "version": 0
+  "version": 1
 }
