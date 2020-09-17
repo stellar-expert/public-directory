@@ -3,7 +3,8 @@
   "domain": "nydro.energy",
   "name": "NydroEnergy",
   "tags": [
-    "issuer"
+    "issuer",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
