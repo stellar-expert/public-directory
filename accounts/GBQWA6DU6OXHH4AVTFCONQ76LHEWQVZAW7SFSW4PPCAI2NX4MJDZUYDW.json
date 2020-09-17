@@ -3,7 +3,8 @@
   "domain": "piiko.co",
   "name": "Piiko",
   "tags": [
-    "anchor"
+    "anchor",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
