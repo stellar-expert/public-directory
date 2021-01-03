@@ -1,8 +1,10 @@
 {
   "address": "GDX6FFZUVSYTOV23NP2PUUGQIORTWQHUXXPXYOUIOY6CDQXG4NP6OEQ7",
+  "domain": "hitbtc.com",
   "name": "Phishing",
   "tags": [
-    "malicious"
+    "exchange",
+    "memo-required"
   ],
-  "version": 1
+  "version": 2
 }
