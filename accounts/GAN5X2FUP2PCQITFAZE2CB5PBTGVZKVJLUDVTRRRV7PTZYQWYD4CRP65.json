@@ -1,0 +1,10 @@
+{
+  "address": "GAN5X2FUP2PCQITFAZE2CB5PBTGVZKVJLUDVTRRRV7PTZYQWYD4CRP65",
+  "domain": "freewallet.org",
+  "name": "FreeWallet",
+  "tags": [
+    "wallet",
+    "memo-required"
+  ],
+  "version": 0
+}
