@@ -1,8 +1,8 @@
 {
   "address": "GDWYCXDRHIKEGYMR45SAC5O2YXCPWUBZZEDFZPZQ3OS7XZJBDCMBON6Y",
-  "name": "Stolen funds",
+  "name": "ChangeNow",
   "tags": [
-    "malicious"
+    "exchange"
   ],
-  "version": 0
+  "version": 1
 }
