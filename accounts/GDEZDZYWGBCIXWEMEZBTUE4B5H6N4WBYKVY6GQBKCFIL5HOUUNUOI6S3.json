@@ -1,0 +1,10 @@
+{
+  "address": "GDEZDZYWGBCIXWEMEZBTUE4B5H6N4WBYKVY6GQBKCFIL5HOUUNUOI6S3",
+  "domain": "celsius.network",
+  "name": "Celsius",
+  "tags": [
+    "custodian",
+    "wallet"
+  ],
+  "version": 0
+}
