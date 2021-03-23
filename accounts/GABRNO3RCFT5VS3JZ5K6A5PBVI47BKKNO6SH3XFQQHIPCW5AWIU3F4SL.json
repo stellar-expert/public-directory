@@ -1,0 +1,10 @@
+{
+  "address": "GABRNO3RCFT5VS3JZ5K6A5PBVI47BKKNO6SH3XFQQHIPCW5AWIU3F4SL",
+  "domain": "bitpanda.com",
+  "name": "Bitpanda Deposits",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "version": 0
+}
