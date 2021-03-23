@@ -1,0 +1,10 @@
+{
+  "address": "GDFI6NFZR6QXPEX7RRVSIWBQHROGR4JYFT4ZJISKAFUPQQF33DRDR7C5",
+  "domain": "simpleswap.io",
+  "name": "SimpleSwap",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "version": 0
+}
