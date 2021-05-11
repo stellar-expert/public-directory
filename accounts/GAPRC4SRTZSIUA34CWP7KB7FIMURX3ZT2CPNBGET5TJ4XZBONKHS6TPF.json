@@ -1,0 +1,10 @@
+{
+  "address": "GAPRC4SRTZSIUA34CWP7KB7FIMURX3ZT2CPNBGET5TJ4XZBONKHS6TPF",
+  "domain": "nicehash.com",
+  "name": "NiceHash",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "version": 0
+}
