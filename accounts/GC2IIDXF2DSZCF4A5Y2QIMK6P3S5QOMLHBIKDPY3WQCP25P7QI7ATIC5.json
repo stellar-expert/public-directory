@@ -1,0 +1,10 @@
+{
+  "address": "GC2IIDXF2DSZCF4A5Y2QIMK6P3S5QOMLHBIKDPY3WQCP25P7QI7ATIC5",
+  "domain": "bkex.com",
+  "name": "BKEX",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "version": 0
+}
