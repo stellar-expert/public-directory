@@ -1,0 +1,10 @@
+{
+  "address": "GBWMQSLPYKUZW4ZTMQ5CJWBYQICBXUTYS4CNSZRVRQ7WN33H5CZPLAFW",
+  "domain": "mobiepay.io",
+  "name": "MobiePay",
+  "tags": [
+    "issuer",
+    "wallet"
+  ],
+  "version": 0
+}
