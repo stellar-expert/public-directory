@@ -1,0 +1,10 @@
+{
+  "address": "GBC6NRTTQLRCABQHIR5J4R4YDJWFWRAO4ZRQIM2SVI5GSIZ2HZ42RINW",
+  "domain": "gate.io",
+  "name": "GateIO",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "version": 0
+}
