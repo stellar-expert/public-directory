@@ -1,0 +1,10 @@
+{
+  "address": "GDGCDU5OLMJ3PT2HSDACJRHMLUWPTLUERWHX7TOR7DTO3IMI5GBZSMYL",
+  "domain": "coinbase.com",
+  "name": "Coinbase",
+  "tags": [
+    "exchange",
+    "custodian"
+  ],
+  "version": 0
+}
