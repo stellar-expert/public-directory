@@ -1,0 +1,11 @@
+{
+  "address": "GB3OE4IBQTYQFZZS5RXQHE4IPQL7ONOFOSAIS2NFRNMJKZEAI3AAUT2A",
+  "domain": "swisscustody.org",
+  "name": "SwissCustody",
+  "tags": [
+    "issuer",
+    "anchor",
+    "custodian"
+  ],
+  "version": 0
+}
