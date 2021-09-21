@@ -1,0 +1,10 @@
+{
+  "address": "GDUI73F5LZA47F4CBUNDT7FLWJ4U6DJQHDU3N3L55AONLUFV2QANT5D4",
+  "domain": "stellar.org",
+  "name": "SDF USDC pool",
+  "tags": [
+    "custodian",
+    "sdf"
+  ],
+  "version": 0
+}
