@@ -1,11 +1,9 @@
 {
   "address": "GB3OE4IBQTYQFZZS5RXQHE4IPQL7ONOFOSAIS2NFRNMJKZEAI3AAUT2A",
   "domain": "swisscustody.org",
-  "name": "SwissCustody",
+  "name": "SwissCustody scam",
   "tags": [
-    "issuer",
-    "anchor",
-    "custodian"
+    "malicious"
   ],
-  "version": 0
+  "version": 1
 }
