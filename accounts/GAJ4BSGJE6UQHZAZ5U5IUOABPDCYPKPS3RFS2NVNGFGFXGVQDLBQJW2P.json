@@ -1,0 +1,10 @@
+{
+  "address": "GAJ4BSGJE6UQHZAZ5U5IUOABPDCYPKPS3RFS2NVNGFGFXGVQDLBQJW2P",
+  "domain": "kucoin.com",
+  "name": "KuCoin",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "version": 0
+}
