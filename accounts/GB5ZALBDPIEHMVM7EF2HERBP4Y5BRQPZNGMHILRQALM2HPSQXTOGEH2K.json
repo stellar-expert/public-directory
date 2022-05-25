@@ -1,0 +1,9 @@
+{
+  "address": "GB5ZALBDPIEHMVM7EF2HERBP4Y5BRQPZNGMHILRQALM2HPSQXTOGEH2K",
+  "domain": "wirecash.com",
+  "name": "Wirecash Cold Storage",
+  "tags": [
+    "custodian"
+  ],
+  "version": 0
+}
