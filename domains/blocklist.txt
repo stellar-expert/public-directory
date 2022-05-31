@@ -60,11 +60,9 @@ indus.health
 induspayments.com
 stellarassets.org
 stellar-commodities.com
-corporate.stellarbonds.exchange
-go-dls.com
-gov.stellarbonds.exchange
-luxbank.co
 stellarbonds.exchange
+go-dls.com
+luxbank.co
 stellaretfs.com
 stellarfunds.org
 stellarhedgefunds.com
