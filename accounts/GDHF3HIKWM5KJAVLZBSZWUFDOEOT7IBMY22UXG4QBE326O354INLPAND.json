@@ -1,8 +1,9 @@
 {
   "address": "GDHF3HIKWM5KJAVLZBSZWUFDOEOT7IBMY22UXG4QBE326O354INLPAND",
-  "name": "Scam",
+  "name": "Binance Withdrawals",
   "tags": [
-    "malicious"
+    "exchange"
   ],
-  "version": 0
+  "domain": "binance.com",
+  "version": 1
 }
