@@ -12,7 +12,7 @@ You can
 - [Request project listing, tag exchange/custodian accounts, or report 
   ilicit/fradulent activity](https://stellar.expert/directory/add)
 - [Report fraudulent domains](https://stellar.expert/directory/blocked-domains/add)
-- [Share your thoughts, ideas, complaints](/stellar-expert/public-directory/issues)
+- [Share your thoughts, ideas, complaints](https://github.com/stellar-expert/public-directory/issues)
 
 *Please note: listing in the directory is not an endorsement, the maintainers do
 not verify legal entities operating the listed accounts.*
