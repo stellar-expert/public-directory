@@ -7,16 +7,19 @@ All data from this repository is publicly available for developers and users
 free of charge through
 [Open Directory API](https://stellar.expert/openapi.html#tag/Directory-API).
 
-If you wish to request your project listing or report ilicit/fradulent activity,
-please fill up [the form here](https://stellar.expert/directory/add). It will
-automaticall create a request in this repository.
+You can
+
+- [Request project listing, tag exchange/custodian accounts, or report 
+  ilicit/fradulent activity](https://stellar.expert/directory/add)
+- [Report fraudulent domains](https://stellar.expert/directory/blocked-domains/add)
+- [Share your thoughts, ideas, complaints](/stellar-expert/public-directory/issues)
 
 *Please note: listing in the directory is not an endorsement, the maintainers do
 not verify legal entities operating the listed accounts.*
 
 ## For developers
 
-Integration of this Open Directory API into your website/application helps to
+Integration of the Open Directory API into your website/application helps to
 protect your users from fraudulent attempts, avoid transfer mistakes, and
 provide additional information in the account transactions history.
 
