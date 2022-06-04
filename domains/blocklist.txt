@@ -76,3 +76,4 @@ verbf.digital
 vbrf.digital
 turkeystellars.org
 stellar-assets.net
+turkeystellar.org
