@@ -88,3 +88,4 @@ qsi.gold
 lndus.gold
 giantstellar.com
 maststellar.com
+deluxe-indus.exchange
