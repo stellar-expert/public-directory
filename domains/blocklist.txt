@@ -87,3 +87,4 @@ global-assets.digital
 qsi.gold
 lndus.gold
 giantstellar.com
+maststellar.com
