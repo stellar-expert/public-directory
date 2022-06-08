@@ -1,0 +1,10 @@
+{
+  "address": "GCFFCV3WBRVRFJM7EEIZRK2IQHLIMBIAADYUZ62J264FGETCUJKCL3RK",
+  "name": "Mercado Bitcoin",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "mercadobitcoin.com.br",
+  "version": 0
+}
