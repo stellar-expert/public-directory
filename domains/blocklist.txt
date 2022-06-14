@@ -96,3 +96,4 @@ app.xmint.io
 amm.xmint.io
 jobs.xmint.io
 donttread.stellarmint.io
+kabbalah.stellarmint.io
