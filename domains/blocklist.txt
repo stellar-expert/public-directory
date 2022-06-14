@@ -95,3 +95,4 @@ kingtroll.stellarmint.io
 app.xmint.io
 amm.xmint.io
 jobs.xmint.io
+donttread.stellarmint.io
