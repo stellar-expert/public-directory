@@ -93,3 +93,4 @@ lobstrr.co
 geekmom.stellarmint.io
 kingtroll.stellarmint.io
 app.xmint.io
+amm.xmint.io
