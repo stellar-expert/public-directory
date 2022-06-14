@@ -97,3 +97,4 @@ amm.xmint.io
 jobs.xmint.io
 donttread.stellarmint.io
 kabbalah.stellarmint.io
+stella-russia.io
