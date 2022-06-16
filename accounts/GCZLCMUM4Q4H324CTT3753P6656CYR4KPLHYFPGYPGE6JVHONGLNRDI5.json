@@ -1,0 +1,10 @@
+{
+  "address": "GCZLCMUM4Q4H324CTT3753P6656CYR4KPLHYFPGYPGE6JVHONGLNRDI5",
+  "name": "Upbit Deposits",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "upbit.com",
+  "version": 0
+}
