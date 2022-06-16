@@ -1,0 +1,10 @@
+{
+  "address": "GBBALM76B5OUPOZCMFCNT5PVIFV3WTUYX3VVGC7FMN4ZPQLGCG2C4X3D",
+  "name": "Kraken",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "kraken.com",
+  "version": 0
+}
