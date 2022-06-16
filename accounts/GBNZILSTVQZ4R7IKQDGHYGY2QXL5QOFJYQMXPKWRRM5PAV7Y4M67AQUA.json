@@ -1,10 +1,10 @@
 {
   "address": "GBNZILSTVQZ4R7IKQDGHYGY2QXL5QOFJYQMXPKWRRM5PAV7Y4M67AQUA",
-  "domain": "aqua.network",
-  "name": "Aquarius Issuer",
+  "name": "AQUA Issuer",
   "tags": [
     "anchor",
     "issuer"
   ],
-  "version": 0
+  "domain": "aqua.network",
+  "version": 1
 }
