@@ -1,0 +1,10 @@
+{
+  "address": "GCWEER57MBVRXA4I426VL3PSWWM72SSZ3AZ5TGBDSWJMTDFVCABWNZIF",
+  "name": "Upbit ColdWallet",
+  "tags": [
+    "exchange",
+    "custodian"
+  ],
+  "domain": "upbit.com",
+  "version": 0
+}
