@@ -1,0 +1,10 @@
+{
+  "address": "GDBKXR3ALWBJHTEWUNY3Q57IKQ45NWVFC5AWXHWEP4I5G3RX7BERZAIN",
+  "name": "Apay",
+  "tags": [
+    "issuer",
+    "unsafe"
+  ],
+  "domain": "dead.apay.io",
+  "version": 0
+}
