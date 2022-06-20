@@ -1,10 +1,11 @@
 {
   "address": "GCQTGZQQ5G4PTM2GL7CDIFKUBIPEC52BROAQIAPW53XBRJVN6ZJVTG6V",
-  "domain": "apay.io",
   "name": "Apay",
   "tags": [
     "anchor",
-    "issuer"
+    "issuer",
+    "unsafe"
   ],
-  "version": 0
+  "domain": "apay.io",
+  "version": 1
 }
