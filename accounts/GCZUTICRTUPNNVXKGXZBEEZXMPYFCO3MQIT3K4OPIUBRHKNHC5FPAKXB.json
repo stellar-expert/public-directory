@@ -1,0 +1,10 @@
+{
+  "address": "GCZUTICRTUPNNVXKGXZBEEZXMPYFCO3MQIT3K4OPIUBRHKNHC5FPAKXB",
+  "name": "Apay",
+  "tags": [
+    "issuer",
+    "unsafe"
+  ],
+  "domain": "dead.apay.io",
+  "version": 0
+}
