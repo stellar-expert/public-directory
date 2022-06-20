@@ -3,8 +3,8 @@
   "name": "Apay",
   "tags": [
     "issuer",
-    "unsafe"
+    "anchor"
   ],
-  "domain": "dead.apay.io",
-  "version": 0
+  "domain": "apay.io",
+  "version": 1
 }
