@@ -113,3 +113,4 @@ miri777.litemint.store
 quantum-system.finance
 cbdc-tokens.org
 indusx.tech
+indus.tech
