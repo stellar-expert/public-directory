@@ -1,0 +1,10 @@
+{
+  "address": "GBOYDKMW7MKSXV3UAPTEWVF3IX2EIJ4YOCEH6MOO5XTYOJKIH73YESVB",
+  "name": "Coinbase Deposits",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "coinbase.com",
+  "version": 0
+}
