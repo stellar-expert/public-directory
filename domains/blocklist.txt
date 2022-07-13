@@ -120,3 +120,4 @@ projectguardian.digital
 ixinium.co
 stronghold.co
 project-jura.org
+stellarium.tech
