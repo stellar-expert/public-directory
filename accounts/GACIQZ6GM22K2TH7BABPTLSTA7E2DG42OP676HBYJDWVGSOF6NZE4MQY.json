@@ -1,0 +1,10 @@
+{
+  "address": "GACIQZ6GM22K2TH7BABPTLSTA7E2DG42OP676HBYJDWVGSOF6NZE4MQY",
+  "name": "DigiFinex",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "digifinex.com",
+  "version": 0
+}
