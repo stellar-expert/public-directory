@@ -127,3 +127,4 @@ stellargame.space
 steiiarium.tech
 ascendium.netlify.app
 afreum.com
+afreum.co
