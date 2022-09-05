@@ -1,0 +1,10 @@
+{
+  "address": "GCIL6JNOVODHIZGZBYKWSRDRYUVXWF5ZEVMISJQQJBQRMF5FAH6YOD7U",
+  "name": "Coinbase Desposits",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "coinbase.com",
+  "version": 0
+}
