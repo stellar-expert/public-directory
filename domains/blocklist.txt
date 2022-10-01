@@ -129,3 +129,4 @@ ascendium.netlify.app
 afreum.co
 flare-networks.co
 flare-networks.ai
+stellar.org.ge
