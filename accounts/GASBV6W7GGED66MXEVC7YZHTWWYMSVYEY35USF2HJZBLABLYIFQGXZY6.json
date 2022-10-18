@@ -1,0 +1,10 @@
+{
+  "address": "GASBV6W7GGED66MXEVC7YZHTWWYMSVYEY35USF2HJZBLABLYIFQGXZY6",
+  "name": "NGNC Anchor Issuer",
+  "tags": [
+    "anchor",
+    "issuer"
+  ],
+  "domain": "ngnc.online",
+  "version": 0
+}
