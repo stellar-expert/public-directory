@@ -1,8 +1,10 @@
 {
   "address": "GDBIXGZ3EKI3M4DBM65ADLHVNYIOG7JXGOHW5DHUZQAXPORY3QNO2PNY",
-  "name": "SCAM Serial Token Minter",
+  "name": "ChangeNow",
   "tags": [
-    "malicious"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "domain": "changenow.io",
+  "version": 1
 }
