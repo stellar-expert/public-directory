@@ -1,0 +1,10 @@
+{
+  "address": "GC5PFAXPL3BYIRHLMUFD3E353DINA6A52DXJIXLKQEVO2GA7WFWGWCFS",
+  "name": "Coinbase Deposits",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "coinbase.com",
+  "version": 0
+}
