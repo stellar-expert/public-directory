@@ -1,0 +1,10 @@
+{
+  "address": "GDP34WXZRCSHVUDQLGKJKOBMS5LOQPHCIADZU5POEF3IICZ7XNQJ65Y6",
+  "name": "Huobi",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "huobi.com",
+  "version": 0
+}
