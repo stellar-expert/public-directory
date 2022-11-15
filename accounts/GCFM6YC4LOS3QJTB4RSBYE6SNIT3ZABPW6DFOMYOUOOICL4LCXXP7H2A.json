@@ -1,0 +1,10 @@
+{
+  "address": "GCFM6YC4LOS3QJTB4RSBYE6SNIT3ZABPW6DFOMYOUOOICL4LCXXP7H2A",
+  "name": "Fake Stable Coin",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "mera.one",
+  "version": 0
+}
