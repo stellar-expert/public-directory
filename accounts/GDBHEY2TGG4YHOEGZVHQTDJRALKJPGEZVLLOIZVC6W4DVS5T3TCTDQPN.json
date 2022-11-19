@@ -1,0 +1,10 @@
+{
+  "address": "GDBHEY2TGG4YHOEGZVHQTDJRALKJPGEZVLLOIZVC6W4DVS5T3TCTDQPN",
+  "name": "CAUTION serial minter",
+  "tags": [
+    "unsafe",
+    "issuer"
+  ],
+  "domain": "limitedstellar.com",
+  "version": 0
+}
