@@ -1,9 +1,9 @@
 {
   "address": "GBCB4WO6J4ET55RWK2SVX76LUQ4PQ7TCDHG2YFILQML7D6XR3HACLXAU",
-  "name": "SCAM",
+  "name": "XAU CL",
   "tags": [
-    "unsafe"
+    "issuer"
   ],
   "domain": "xau.cl",
-  "version": 0
+  "version": 1
 }
