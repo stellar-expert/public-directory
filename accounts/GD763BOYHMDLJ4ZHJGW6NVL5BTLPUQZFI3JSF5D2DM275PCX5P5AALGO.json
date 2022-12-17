@@ -1,0 +1,10 @@
+{
+  "address": "GD763BOYHMDLJ4ZHJGW6NVL5BTLPUQZFI3JSF5D2DM275PCX5P5AALGO",
+  "name": "iso20022stellar.org",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "iso20022stellar.org",
+  "version": 0
+}
