@@ -1,0 +1,10 @@
+{
+  "address": "GDYVGZ6HNXBHEH4BPC53W6MORG52JHUQWHFI3CU2XFVEIP3C75OCXADA",
+  "name": "SCAM-Counterfeiter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "iso20022stellar.org",
+  "version": 0
+}
