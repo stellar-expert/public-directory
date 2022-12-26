@@ -1,0 +1,12 @@
+{
+  "address": "GA63KVKMUMCVQQP6TQYAV626M2UWRZNIHOCCGWM7SG43DTL64F5CGRKO",
+  "name": "TEST-token",
+  "tags": [
+    "issuer",
+    "wallet",
+    "unsafe",
+    "personal"
+  ],
+  "domain": "www.veteranscuts.com",
+  "version": 0
+}
