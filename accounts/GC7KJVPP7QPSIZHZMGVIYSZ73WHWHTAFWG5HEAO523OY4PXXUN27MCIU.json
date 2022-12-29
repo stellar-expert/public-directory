@@ -1,0 +1,9 @@
+{
+  "address": "GC7KJVPP7QPSIZHZMGVIYSZ73WHWHTAFWG5HEAO523OY4PXXUN27MCIU",
+  "name": "USBD-BravePay",
+  "tags": [
+    "issuer"
+  ],
+  "domain": "coin.bravepay.net",
+  "version": 0
+}
