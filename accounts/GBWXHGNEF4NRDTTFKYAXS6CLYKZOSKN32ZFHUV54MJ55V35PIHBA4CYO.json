@@ -1,0 +1,10 @@
+{
+  "address": "GBWXHGNEF4NRDTTFKYAXS6CLYKZOSKN32ZFHUV54MJ55V35PIHBA4CYO",
+  "name": "netlify.app Serial Falsified Minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "morgancoin.netlify.app",
+  "version": 0
+}
