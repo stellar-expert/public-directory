@@ -1,0 +1,10 @@
+{
+  "address": "GCGMJ63NTBSQKW7OEQ3J2RZH6PYXSTEUK4TVE35IPXLB7XWNI2PUDCY6",
+  "name": "Uphold",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "uphold.com",
+  "version": 0
+}
