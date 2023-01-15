@@ -2,9 +2,9 @@
   "address": "GAOFMMR7E6RFFPAKR7C6TQO5GRKQVHLLQWDVBL2ZAHQUW2LJ33K5NQTM",
   "name": "SCAM-Counterfeiter",
   "tags": [
-    "custodian",
-    "unsafe"
+    "unsafe",
+    "malicious"
   ],
   "domain": "quantomfinancial.org",
-  "version": 0
+  "version": 1
 }
