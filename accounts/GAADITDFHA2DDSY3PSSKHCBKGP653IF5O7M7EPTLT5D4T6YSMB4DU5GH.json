@@ -1,0 +1,10 @@
+{
+  "address": "GAADITDFHA2DDSY3PSSKHCBKGP653IF5O7M7EPTLT5D4T6YSMB4DU5GH",
+  "name": "Fake Token from Serial Minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellarnews.com",
+  "version": 0
+}
