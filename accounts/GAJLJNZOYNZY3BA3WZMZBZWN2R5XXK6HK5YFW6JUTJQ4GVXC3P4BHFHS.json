@@ -1,0 +1,9 @@
+{
+  "address": "GAJLJNZOYNZY3BA3WZMZBZWN2R5XXK6HK5YFW6JUTJQ4GVXC3P4BHFHS",
+  "name": "Do not fund an account someone else set up",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "version": 0
+}
