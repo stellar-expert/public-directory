@@ -2,9 +2,8 @@
   "address": "GARW7RZLR2BK6CEV7KUQS55WAGYVBQAH7L2PPD37MDSYQDLHGJS5OESC",
   "name": "SciConLab",
   "tags": [
-    "malicious",
-    "unsafe"
+    "issuer"
   ],
   "domain": "surface-concept.com",
-  "version": 0
+  "version": 1
 }
