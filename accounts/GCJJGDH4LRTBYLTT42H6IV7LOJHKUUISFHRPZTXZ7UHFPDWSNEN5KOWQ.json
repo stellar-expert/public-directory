@@ -2,9 +2,8 @@
   "address": "GCJJGDH4LRTBYLTT42H6IV7LOJHKUUISFHRPZTXZ7UHFPDWSNEN5KOWQ",
   "name": "SCAM",
   "tags": [
-    "malicious",
-    "unsafe"
+    "issuer"
   ],
-  "domain": "aadc.store",
-  "version": 0
+  "domain": "aadc.one",
+  "version": 1
 }
