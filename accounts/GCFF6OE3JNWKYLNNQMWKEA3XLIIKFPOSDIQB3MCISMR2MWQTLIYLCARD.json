@@ -1,0 +1,10 @@
+{
+  "address": "GCFF6OE3JNWKYLNNQMWKEA3XLIIKFPOSDIQB3MCISMR2MWQTLIYLCARD",
+  "name": "SCAM-Counterfeiter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar.creditcard",
+  "version": 0
+}
