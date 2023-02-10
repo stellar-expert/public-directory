@@ -1,0 +1,10 @@
+{
+  "address": "GCE6SAKFMUAVWRUMLZTDEJREDZXAKTWF7WPPNX37EIXVG6DWE2LPIGVN",
+  "name": "SCAM-Counterfeiter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "soroban.stellar.org",
+  "version": 0
+}
