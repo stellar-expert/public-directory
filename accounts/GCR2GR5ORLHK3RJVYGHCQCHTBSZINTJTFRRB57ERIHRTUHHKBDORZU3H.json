@@ -1,0 +1,10 @@
+{
+  "address": "GCR2GR5ORLHK3RJVYGHCQCHTBSZINTJTFRRB57ERIHRTUHHKBDORZU3H",
+  "name": "SCAM copycat minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "gpt-crypto.vercel.app",
+  "version": 0
+}
