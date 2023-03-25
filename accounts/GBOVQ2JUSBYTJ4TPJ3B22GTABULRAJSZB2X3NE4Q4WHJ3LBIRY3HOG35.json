@@ -1,0 +1,9 @@
+{
+  "address": "GBOVQ2JUSBYTJ4TPJ3B22GTABULRAJSZB2X3NE4Q4WHJ3LBIRY3HOG35",
+  "name": "Copycat serial minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "version": 0
+}
