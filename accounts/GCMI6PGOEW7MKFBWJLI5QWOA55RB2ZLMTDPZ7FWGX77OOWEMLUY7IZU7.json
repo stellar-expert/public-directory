@@ -1,0 +1,10 @@
+{
+  "address": "GCMI6PGOEW7MKFBWJLI5QWOA55RB2ZLMTDPZ7FWGX77OOWEMLUY7IZU7",
+  "name": "Dead Unpegged assets",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "zimcoin.exchange",
+  "version": 0
+}
