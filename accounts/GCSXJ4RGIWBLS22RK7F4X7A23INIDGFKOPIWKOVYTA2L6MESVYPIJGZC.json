@@ -1,0 +1,10 @@
+{
+  "address": "GCSXJ4RGIWBLS22RK7F4X7A23INIDGFKOPIWKOVYTA2L6MESVYPIJGZC",
+  "name": "Intentionally falsified TOML file",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-scamtest.me.uk",
+  "version": 0
+}
