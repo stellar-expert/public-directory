@@ -1,0 +1,10 @@
+{
+  "address": "GADT2M6OKESLLWDTBJGLLU6G4O2UU3OYE6AI5LKPRLUWLOY25EV2GRE4",
+  "name": "Serial Minter Connected to Known Counterfeiter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-go.com",
+  "version": 0
+}
