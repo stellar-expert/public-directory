@@ -1,0 +1,10 @@
+{
+  "address": "GABFQIK63R2NETJM7T673EAMZN4RJLLGP3OFUEJU5SZVTGWUKULZJNL6",
+  "name": "Binance Deposits",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "binance.com",
+  "version": 0
+}
