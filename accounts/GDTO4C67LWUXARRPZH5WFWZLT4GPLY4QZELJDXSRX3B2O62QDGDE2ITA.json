@@ -1,0 +1,10 @@
+{
+  "address": "GDTO4C67LWUXARRPZH5WFWZLT4GPLY4QZELJDXSRX3B2O62QDGDE2ITA",
+  "name": "SCAM minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-cargo.digital",
+  "version": 0
+}
