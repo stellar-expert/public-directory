@@ -1,0 +1,10 @@
+{
+  "address": "GABMK7AV2QOMOMZ4BSZNODTSGBPSQTMRGEMODZEQCNPXVIJBOW3QYUSA",
+  "name": "SCAM Token minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-trustpay.digital",
+  "version": 0
+}
