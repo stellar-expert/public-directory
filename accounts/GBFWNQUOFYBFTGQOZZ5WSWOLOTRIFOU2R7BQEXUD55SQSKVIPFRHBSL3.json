@@ -1,0 +1,9 @@
+{
+  "address": "GBFWNQUOFYBFTGQOZZ5WSWOLOTRIFOU2R7BQEXUD55SQSKVIPFRHBSL3",
+  "name": "Serial Falsified token Minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "version": 0
+}
