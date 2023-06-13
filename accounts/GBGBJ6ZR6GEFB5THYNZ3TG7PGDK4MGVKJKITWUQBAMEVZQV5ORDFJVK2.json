@@ -1,9 +1,10 @@
 {
   "address": "GBGBJ6ZR6GEFB5THYNZ3TG7PGDK4MGVKJKITWUQBAMEVZQV5ORDFJVK2",
-  "name": "caution - serial minter",
+  "name": "Serial minter account",
   "tags": [
-    "issuer"
+    "issuer",
+    "malicious"
   ],
   "domain": "stellarmarketcap.com",
-  "version": 0
+  "version": 1
 }
