@@ -1,10 +1,11 @@
 {
   "address": "GDBHEY2TGG4YHOEGZVHQTDJRALKJPGEZVLLOIZVC6W4DVS5T3TCTDQPN",
-  "name": "CAUTION serial minter",
+  "name": "Serial minter account",
   "tags": [
     "unsafe",
-    "issuer"
+    "issuer",
+    "malicious"
   ],
   "domain": "limitedstellar.com",
-  "version": 0
+  "version": 1
 }
