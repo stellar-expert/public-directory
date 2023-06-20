@@ -1,9 +1,10 @@
 {
   "address": "GBIBK4J7NA6EBCMD3PBSDQ3ATIKBEG3EQUCGNTEZXCW7D7GFNFFXOWNY",
-  "name": "Serial SCAM Minter's connected account",
+  "name": "Binance",
   "tags": [
-    "malicious",
-    "unsafe"
+    "custodian",
+    "exchange"
   ],
-  "version": 0
+  "domain": "binance.com",
+  "version": 1
 }
