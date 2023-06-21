@@ -1,0 +1,10 @@
+{
+  "address": "GBW64JT24G4M2FTXVDKJOEQDSBLULXALEYY6VPEJIEN4NTFGMW35BPP5",
+  "name": "Bitvavo",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "bitvavo.com",
+  "version": 0
+}
