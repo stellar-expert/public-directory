@@ -1,9 +1,10 @@
 {
   "address": "GD5NP74FP22VVRVPUFWONJVXTMK64R4Y6EEJZYW6JNKDTPK4TR6HR6OT",
-  "name": "Serial SCAM Minter's connected account",
+  "name": "HitBTC",
   "tags": [
-    "malicious",
-    "unsafe"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "domain": "hitbtc.com",
+  "version": 1
 }
