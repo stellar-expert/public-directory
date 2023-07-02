@@ -2,9 +2,9 @@
   "address": "GC7HY5KHEHHQVVQNWNY2YUCJU2DZVVLXZIX2MKCGQLQQQ3YTHG42Y3A6",
   "name": "SCAM Counterfeiter",
   "tags": [
-    "personal",
+    "malicious",
     "unsafe"
   ],
   "domain": "bricsstellar.com",
-  "version": 0
+  "version": 1
 }
