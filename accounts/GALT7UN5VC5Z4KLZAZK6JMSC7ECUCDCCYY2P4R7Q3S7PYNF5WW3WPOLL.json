@@ -2,8 +2,9 @@
   "address": "GALT7UN5VC5Z4KLZAZK6JMSC7ECUCDCCYY2P4R7Q3S7PYNF5WW3WPOLL",
   "name": "Luckybird",
   "tags": [
-    "anchor"
+    "anchor",
+    "memo-required"
   ],
   "domain": "luckybird.io",
-  "version": 1
+  "version": 2
 }
