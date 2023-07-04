@@ -1,0 +1,11 @@
+{
+  "address": "GDN5DCZZIUHMYM5EJTIQMYKRKVNT6Z2JOTCRW2FHWZQESRIOWP2QKBQ3",
+  "name": "Binance",
+  "tags": [
+    "exchange",
+    "memo-required",
+    "unsafe"
+  ],
+  "domain": "binance.com",
+  "version": 0
+}
