@@ -1,9 +1,8 @@
 {
   "address": "GD6WU64OEP5C4LRBH6NK3MHYIA2ADN6K6II6EXPNVUR3ERBXT4AN4ACD",
-  "name": "Serial SCAM Minter's account",
+  "name": "vintage",
   "tags": [
-    "malicious",
-    "unsafe"
+    "wallet"
   ],
-  "version": 0
+  "version": 1
 }
