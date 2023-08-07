@@ -1,0 +1,9 @@
+{
+  "address": "GDIMVGTGDAEGB6BLCO3OSI7FGSUUCTONMKHYK7GQF6VZAMEHDNHETYTJ",
+  "name": "Spam sender",
+  "tags": [
+    "malicious"
+  ],
+  "domain": "arcanex.io",
+  "version": 0
+}
