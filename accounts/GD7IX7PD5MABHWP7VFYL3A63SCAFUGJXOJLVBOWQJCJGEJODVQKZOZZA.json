@@ -2,9 +2,9 @@
   "address": "GD7IX7PD5MABHWP7VFYL3A63SCAFUGJXOJLVBOWQJCJGEJODVQKZOZZA",
   "name": "Part of the LimitedStellar SCAM",
   "tags": [
-    "issuer",
-    "unsafe"
+    "unsafe",
+    "malicious"
   ],
   "domain": "limitedstellar.com",
-  "version": 1
+  "version": 2
 }
