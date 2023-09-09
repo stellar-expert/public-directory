@@ -1,9 +1,9 @@
 {
   "address": "GA4JDYIYE5E532WJOQK6BXKLA6L526DQ23TYJRNH3AIPE7KYEVKVY3MC",
-  "name": "Serial SCAM Minter's controlled account",
+  "name": "Serial SCAM Minter's connected account",
   "tags": [
     "malicious",
     "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
