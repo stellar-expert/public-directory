@@ -1,9 +1,9 @@
 {
   "address": "GAFQBCA4JSNKGQU5QL5RPIKHI5LOPKU2QSVR7G4AR3J7B5DV35ZUWOEC",
-  "name": "SCAM minter connected account",
+  "name": "SCAM minter controlled account",
   "tags": [
     "malicious",
     "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
