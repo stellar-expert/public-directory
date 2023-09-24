@@ -1,9 +1,10 @@
 {
   "address": "GDNDT3YJ7WUTBE3LNWHQFIU6Y5OLENXBUZDQNWGBX4D4Z7HHCUXPXBY4",
-  "name": "Serial SCAM Minter's controlled account",
+  "name": "Serial SCAM counterfeiter",
   "tags": [
     "malicious",
     "unsafe"
   ],
-  "version": 0
+  "domain": "broadcom-stellar.com",
+  "version": 1
 }
