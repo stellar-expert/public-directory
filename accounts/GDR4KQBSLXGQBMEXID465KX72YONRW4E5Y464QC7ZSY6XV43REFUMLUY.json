@@ -1,9 +1,9 @@
 {
   "address": "GDR4KQBSLXGQBMEXID465KX72YONRW4E5Y464QC7ZSY6XV43REFUMLUY",
-  "name": "Serial SCAM Minter's controlled account",
+  "name": "Serial SCAM Minter's controlled minting account",
   "tags": [
     "malicious",
     "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
