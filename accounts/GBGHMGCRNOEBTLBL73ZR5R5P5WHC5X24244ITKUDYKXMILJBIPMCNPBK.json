@@ -1,9 +1,10 @@
 {
   "address": "GBGHMGCRNOEBTLBL73ZR5R5P5WHC5X24244ITKUDYKXMILJBIPMCNPBK",
-  "name": "SCAM",
+  "name": "serial SCAM Counterfeiter",
   "tags": [
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
   "domain": "StellarETFs.com",
-  "version": 0
+  "version": 1
 }
