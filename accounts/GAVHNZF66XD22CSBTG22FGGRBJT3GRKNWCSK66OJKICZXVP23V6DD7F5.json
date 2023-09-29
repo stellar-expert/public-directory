@@ -1,9 +1,10 @@
 {
   "address": "GAVHNZF66XD22CSBTG22FGGRBJT3GRKNWCSK66OJKICZXVP23V6DD7F5",
-  "name": "SCAM",
+  "name": "Serial SCAM Minter's account",
   "tags": [
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
   "domain": "eurb.net",
-  "version": 0
+  "version": 1
 }
