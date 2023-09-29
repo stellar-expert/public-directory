@@ -1,9 +1,10 @@
 {
   "address": "GBL42AK2JLXVRMI7NK5BHAOM7U5GY3BDEYVPF7XDS7OXWHTK6GB6K5DG",
-  "name": "SCAM",
+  "name": "Serial SCAM Minter's account",
   "tags": [
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
   "domain": "stellarledger.org",
-  "version": 0
+  "version": 1
 }
