@@ -1,8 +1,9 @@
 {
   "address": "GB22TYXHEGREHKT5QVC3I6TUR32LNTRDU5EONX22PUX4CDNT5HHW34Y4",
-  "name": "SCAM",
+  "name": "Serial SCAM Minter's account",
   "tags": [
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
