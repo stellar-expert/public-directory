@@ -1,9 +1,9 @@
 {
   "address": "GCL32DPV5KVYCG2VSTMOWBWAHQ5VSAPGGZXO7AL72JTW23S32RPA3ZHS",
-  "name": "Serial SCAM Minter's controlled account",
+  "name": "Serial SCAM Minter's laundering account",
   "tags": [
     "malicious",
     "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
