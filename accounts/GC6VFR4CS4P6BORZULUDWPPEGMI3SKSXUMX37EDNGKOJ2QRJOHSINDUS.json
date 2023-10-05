@@ -1,8 +1,10 @@
 {
   "address": "GC6VFR4CS4P6BORZULUDWPPEGMI3SKSXUMX37EDNGKOJ2QRJOHSINDUS",
-  "name": "Scam",
+  "name": "Serial SCAM Countereiter",
   "tags": [
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
-  "version": 0
+  "domain": "gold.indus.bond",
+  "version": 1
 }
