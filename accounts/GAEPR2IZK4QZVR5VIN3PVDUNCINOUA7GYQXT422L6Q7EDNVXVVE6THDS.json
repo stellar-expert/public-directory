@@ -1,0 +1,10 @@
+{
+  "address": "GAEPR2IZK4QZVR5VIN3PVDUNCINOUA7GYQXT422L6Q7EDNVXVVE6THDS",
+  "name": "Serial SCAM Minter's controlled account",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-go.com",
+  "version": 0
+}
