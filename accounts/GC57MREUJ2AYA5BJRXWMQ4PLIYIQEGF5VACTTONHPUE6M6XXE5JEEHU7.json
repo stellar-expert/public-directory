@@ -1,9 +1,9 @@
 {
   "address": "GC57MREUJ2AYA5BJRXWMQ4PLIYIQEGF5VACTTONHPUE6M6XXE5JEEHU7",
-  "name": "Serial SCAM Minter's account",
+  "name": "Serial SCAM Minter's laundering account",
   "tags": [
-    "exchange",
+    "malicious",
     "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
