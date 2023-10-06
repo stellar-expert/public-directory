@@ -1,9 +1,10 @@
 {
   "address": "GCO3IGH6QJ6LDDZ653AWTM2TBI65D7Q2BURFCGF6JHUPFR7IVNKTMKI7",
-  "name": "SCAM",
+  "name": "serial SCAM Counterfeiter",
   "tags": [
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
   "domain": "stellarrealestate.org",
-  "version": 0
+  "version": 1
 }
