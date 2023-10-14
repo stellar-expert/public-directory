@@ -1,8 +1,9 @@
 {
   "address": "GAVD4E4LKUYPOOO67MXIK6PUDDREC7BRPACXH7JLVI74DCIQ6XQ3ZBU3",
-  "name": "SCAM",
+  "name": "Serial SCAM Minter's laundering account",
   "tags": [
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
