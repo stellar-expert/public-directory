@@ -1,9 +1,10 @@
 {
   "address": "GD7RSPTET25SQZGNROGYHV6I3WGPQAPMWAIZVZNY3D266EL6P3ROJURA",
-  "name": "SCAM",
+  "name": "serial SCAM Counterfeiter",
   "tags": [
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
   "domain": "project-jura.org",
-  "version": 0
+  "version": 1
 }
