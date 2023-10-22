@@ -1,9 +1,9 @@
 {
   "address": "GCS3IOTSCKYRF335DA3CUBKLERV3UHPX23GSTTCEXZ4ITWSBSFQ7XVBA",
-  "name": "Serial SCAM Minter's controlled account",
+  "name": "Serial SCAM Minter's laundering account",
   "tags": [
     "malicious",
     "custodian"
   ],
-  "version": 0
+  "version": 1
 }
