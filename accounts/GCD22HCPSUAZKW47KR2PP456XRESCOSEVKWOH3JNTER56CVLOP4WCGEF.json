@@ -1,9 +1,9 @@
 {
   "address": "GCD22HCPSUAZKW47KR2PP456XRESCOSEVKWOH3JNTER56CVLOP4WCGEF",
-  "name": "SCAM Minter's account",
+  "name": "SCAM Minter's laundering account",
   "tags": [
     "malicious",
     "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
