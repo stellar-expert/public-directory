@@ -1,8 +1,10 @@
 {
   "address": "GAQAMKLONTYK4APCRIVLRZTFHPDDP2XIEJBO42YMTJEDIMWSDP7TITAU",
-  "name": "Spam Issuer",
+  "name": "serial SCAM Counterfeiter",
   "tags": [
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
-  "version": 0
+  "domain": "itautilities.com",
+  "version": 1
 }
