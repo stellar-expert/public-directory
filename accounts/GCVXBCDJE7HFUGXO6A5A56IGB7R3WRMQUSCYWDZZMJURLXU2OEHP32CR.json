@@ -1,9 +1,9 @@
 {
   "address": "GCVXBCDJE7HFUGXO6A5A56IGB7R3WRMQUSCYWDZZMJURLXU2OEHP32CR",
-  "name": "Serial SCAM Minter's account",
+  "name": "Serial SCAM Minter's controlled account",
   "tags": [
     "malicious",
     "unsafe"
   ],
-  "version": 0
+  "version": 1
 }
