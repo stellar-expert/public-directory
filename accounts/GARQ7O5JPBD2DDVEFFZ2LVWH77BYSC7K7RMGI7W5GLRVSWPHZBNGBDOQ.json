@@ -2,8 +2,8 @@
   "address": "GARQ7O5JPBD2DDVEFFZ2LVWH77BYSC7K7RMGI7W5GLRVSWPHZBNGBDOQ",
   "name": "caution: private pooling system",
   "tags": [
-    "unsafe"
+    "issuer"
   ],
   "domain": "gqxamm.wordpress.com",
-  "version": 0
+  "version": 1
 }
