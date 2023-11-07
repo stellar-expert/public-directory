@@ -1,9 +1,9 @@
 {
   "address": "GBA46VATATG5ROFASMUDKGG2435D73AB4FKFPEK7J7G3WGU7ETJ443RR",
-  "name": "Scam",
+  "name": "caution: private pooling system",
   "tags": [
-    "malicious"
+    "issuer"
   ],
   "domain": "geekmom.stellarmint.io",
-  "version": 0
+  "version": 1
 }
