@@ -1,0 +1,10 @@
+{
+  "address": "GDT4LAWPLNFQ6VVZAU5ABKWYT3WLTY2CLYB3NK6AGWS7KRIQD4KV3UMI",
+  "name": "serial SCAM minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "dev.stellar-plymouth.digital",
+  "version": 0
+}
