@@ -1,0 +1,10 @@
+{
+  "address": "GBS525Y3U5EEYFXDMIK6EPAM67Z25AE25HLMS2FONTLRGHEOQ57SKFGE",
+  "name": "serial SCAM minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "x-token.org",
+  "version": 0
+}
