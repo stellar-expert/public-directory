@@ -1,11 +1,10 @@
 {
   "address": "GD2RRX6BKVTORZ6RIMBLWFVUOAYOLTS2QFJQUQPXLI3PBHR3TMLQNGZX",
-  "domain": "liquido.cc",
   "name": "Liquido",
   "tags": [
-    "anchor",
     "issuer",
     "unsafe"
   ],
-  "version": 1
+  "domain": "liquido.cc",
+  "version": 2
 }
