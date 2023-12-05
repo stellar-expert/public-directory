@@ -1,9 +1,8 @@
 {
   "address": "GA6O4HS4WYRLQJ7WNABBYJ2WMO6TT3NC6NTHJFTYRM6T3DOFYIT43LOJ",
-  "name": "serial SCAM Minter's connected account",
+  "name": "TMM bot",
   "tags": [
-    "malicious",
-    "unsafe"
+    "personal"
   ],
-  "version": 0
+  "version": 1
 }
