@@ -1,10 +1,8 @@
 {
   "address": "GBEUMX5LZNQOSD3SG7G4BJCHLXFPQUXBBLI4UOHU7GFXLEXPVXUIJCXL",
-  "domain": "wirecash.com",
-  "name": "Wirecash",
+  "name": "not currently used exchange",
   "tags": [
-    "exchange",
-    "memo-required"
+    "exchange"
   ],
-  "version": 0
+  "version": 1
 }
