@@ -1,8 +1,8 @@
 {
   "address": "GBEUMX5LZNQOSD3SG7G4BJCHLXFPQUXBBLI4UOHU7GFXLEXPVXUIJCXL",
-  "name": "not currently used exchange",
+  "name": "not currently used by exchange",
   "tags": [
     "exchange"
   ],
-  "version": 1
+  "version": 2
 }
