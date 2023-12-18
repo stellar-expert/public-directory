@@ -1,8 +1,9 @@
 {
   "address": "GBEUMX5LZNQOSD3SG7G4BJCHLXFPQUXBBLI4UOHU7GFXLEXPVXUIJCXL",
-  "name": "not currently used by exchange",
+  "name": "Wirecash  (legacy)",
   "tags": [
     "exchange"
   ],
-  "version": 2
+  "domain": "wirecash.com",
+  "version": 3
 }
