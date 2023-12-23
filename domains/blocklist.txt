@@ -146,3 +146,4 @@ moneygramtomlhosting.net
 moneygram-tomlhosting.com
 moneygram-usdc.org
 tool-token.tech
+spacetech.exchange
