@@ -140,3 +140,4 @@ arcanex.io
 xquantum.org
 tomIhosting.co
 moneygramtoken.netlify.app
+turkish-gems.com
