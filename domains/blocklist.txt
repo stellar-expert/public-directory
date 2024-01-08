@@ -153,3 +153,4 @@ stellar-moneygram.com
 moneygramtomlhosting.co
 global-lumens.com
 doget-tokens.com
+doge-token.com
