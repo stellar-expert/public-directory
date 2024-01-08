@@ -155,3 +155,4 @@ global-lumens.com
 doget-tokens.com
 doge-token.com
 projectaurora.me
+cbdc-tokens.co
