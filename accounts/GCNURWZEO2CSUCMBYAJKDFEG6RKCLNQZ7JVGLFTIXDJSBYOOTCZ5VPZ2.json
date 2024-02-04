@@ -1,9 +1,8 @@
 {
   "address": "GCNURWZEO2CSUCMBYAJKDFEG6RKCLNQZ7JVGLFTIXDJSBYOOTCZ5VPZ2",
-  "name": "Serial SCAM Minter's controlled account",
+  "name": "TMM bot",
   "tags": [
-    "malicious",
-    "unsafe"
+    "personal"
   ],
-  "version": 0
+  "version": 1
 }
