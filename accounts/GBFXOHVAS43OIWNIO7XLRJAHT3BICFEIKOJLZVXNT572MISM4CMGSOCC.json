@@ -1,10 +1,10 @@
 {
   "address": "GBFXOHVAS43OIWNIO7XLRJAHT3BICFEIKOJLZVXNT572MISM4CMGSOCC",
-  "domain": "ultrastellar.com",
-  "name": "Ultrastellar ETH Issuer",
+  "name": "UltraCapital ETH Issuer",
   "tags": [
     "issuer",
     "anchor"
   ],
-  "version": 0
+  "domain": "ultracapital.xyz",
+  "version": 1
 }
