@@ -1,10 +1,10 @@
 {
   "address": "GBUVRNH4RW4VLHP4C5MOF46RRIRZLAVHYGX45MVSTKA2F6TMR7E7L6NW",
-  "domain": "ultrastellar.com",
-  "name": "Ultrastellar yBTC Issuer",
+  "name": "UltraCapital yBTC Issuer",
   "tags": [
     "anchor",
     "issuer"
   ],
-  "version": 0
+  "domain": "ultracapital.xyz",
+  "version": 1
 }
