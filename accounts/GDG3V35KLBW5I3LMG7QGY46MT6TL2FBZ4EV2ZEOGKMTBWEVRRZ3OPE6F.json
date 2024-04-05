@@ -1,10 +1,10 @@
 {
   "address": "GDG3V35KLBW5I3LMG7QGY46MT6TL2FBZ4EV2ZEOGKMTBWEVRRZ3OPE6F",
-  "domain": "ultrastellar.com",
-  "name": "Ultrastellar yTokens redemption",
+  "name": "UltraCapital yTokens redemption",
   "tags": [
     "anchor",
     "custodian"
   ],
-  "version": 0
+  "domain": "ultracapital.xyz",
+  "version": 1
 }
