@@ -1,10 +1,10 @@
 {
   "address": "GDGTVWSM4MGS4T7Z6W4RPWOCHE2I6RDFCIFZGS3DOA63LWQTRNZNTTFF",
-  "domain": "ultrastellar.com",
-  "name": "Ultrastellar yUSDC Issuer",
+  "name": "UltraCapital yUSDC Issuer",
   "tags": [
     "anchor",
     "issuer"
   ],
-  "version": 0
+  "domain": "ultracapital.xyz",
+  "version": 1
 }
