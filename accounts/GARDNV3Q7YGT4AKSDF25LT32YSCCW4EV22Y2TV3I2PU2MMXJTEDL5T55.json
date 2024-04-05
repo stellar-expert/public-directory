@@ -1,10 +1,10 @@
 {
   "address": "GARDNV3Q7YGT4AKSDF25LT32YSCCW4EV22Y2TV3I2PU2MMXJTEDL5T55",
-  "domain": "ultrastellar.com",
-  "name": "Ultrastellar",
+  "name": "UltraCapital",
   "tags": [
     "anchor",
     "issuer"
   ],
-  "version": 0
+  "domain": "ultracapital.xyz",
+  "version": 1
 }
