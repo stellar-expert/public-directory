@@ -1,10 +1,10 @@
 {
   "address": "GDPJALI4AZKUU2W426U5WKMAT6CN3AJRPIIRYR2YM54TL2GDWO5O2MZM",
-  "domain": "ultrastellar.com",
-  "name": "Ultrastellar BTC Issuer",
+  "name": "UltraCapital BTC Issuer",
   "tags": [
     "issuer",
     "anchor"
   ],
-  "version": 0
+  "domain": "ultracapital.xyz",
+  "version": 1
 }
