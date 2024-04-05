@@ -1,10 +1,10 @@
 {
   "address": "GADFXROGGR74V3MSWU2SUKCEUPQFZEIIF3IUHLRN3NKZ4JN2IPBMCODA",
-  "domain": "ultrastellar.com",
-  "name": "Ultrastellar yXLM distributor",
+  "name": "UltraCapital yXLM distributor",
   "tags": [
     "anchor",
     "custodian"
   ],
-  "version": 0
+  "domain": "ultracapital.xyz",
+  "version": 1
 }
