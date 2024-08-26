@@ -1100,3 +1100,4 @@ sungold.gold
 swissbanks.claims
 swisscustody.claims
 swiss-custody.com
+swisscustody.exchange
