@@ -1203,3 +1203,4 @@ velo.cash
 velochain.net
 velochain.network
 velo.co.com
+velo.com.de
