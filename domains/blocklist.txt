@@ -1342,3 +1342,4 @@ xstellar.org
 xstellar.shop
 xstellar.so
 xstellar.world
+xtb.network
