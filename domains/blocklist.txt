@@ -945,3 +945,4 @@ stellarmali.com
 stellarmarketcap.com
 stellarmarket.exchange
 stellar-market.org
+stellarmarket.stellarmint.io
