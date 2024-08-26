@@ -464,3 +464,4 @@ induspayments.capital
 induspayments.org
 induss.gold
 indus.social
+indusstellar.com
