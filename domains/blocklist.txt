@@ -695,3 +695,4 @@ quantum.space-tech.exchange
 quantumstellar.computer
 quantumstellar.digital
 quantumstellar.foundation
+quantumstellar.gold
