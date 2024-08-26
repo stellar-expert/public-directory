@@ -1229,3 +1229,4 @@ velolab.tech
 velolab.velo.us.com
 velo.lumens-dex.com
 velo.markets
+velometals.com
