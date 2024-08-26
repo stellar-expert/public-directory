@@ -1231,3 +1231,4 @@ velo.lumens-dex.com
 velo.markets
 velometals.com
 velonet.tech
+velo.network
