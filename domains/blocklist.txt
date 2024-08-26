@@ -729,3 +729,4 @@ refineries.stellar-dex.io
 reit.stellar-dex.io
 renewables.stellar-dex.io
 resonagroup.fund
+resonagrup.fund
