@@ -456,3 +456,4 @@ indusgold.stellarmint.io
 indusken.org
 indus.money
 indus-network.org
+induspay.gold
