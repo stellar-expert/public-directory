@@ -334,3 +334,4 @@ donald-trump.foundation
 dstoq.app
 dstoq.tech
 dzbanks.capital
+dzb-bank.capital
