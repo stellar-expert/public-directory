@@ -751,3 +751,4 @@ russians-assets.digital
 russia.stellar-dex.io
 russia.stellarprojects.org
 russia.usdn.tech
+ruszoloto.gold
