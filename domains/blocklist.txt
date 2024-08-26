@@ -187,3 +187,4 @@ aqua.trading
 area51.vip
 assets-indus.exchange
 asset.stellarprojects.org
+astronaut.foundation
