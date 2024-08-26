@@ -1281,3 +1281,4 @@ verified-assets.com
 vietnam-assets.digital
 vitol.digital
 vitol.exchange
+web.crypto-lumens.digital
