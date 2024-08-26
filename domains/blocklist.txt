@@ -1339,3 +1339,4 @@ xstellar.cfd
 xstellar.claims
 xstellar.lol
 xstellar.org
+xstellar.shop
