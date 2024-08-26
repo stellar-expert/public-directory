@@ -1216,3 +1216,4 @@ velolab.co
 velolab.digital
 velolab.network
 velolabs.co
+velolabs.digital
