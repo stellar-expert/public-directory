@@ -785,3 +785,4 @@ southafrica-assets.digital
 southkorea-assets.digital
 sp500.group
 space-indus.exchange
+spicytkn.org
