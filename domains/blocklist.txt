@@ -1017,3 +1017,4 @@ stellarteam.tech
 stellar-techpoint.exchange
 stellartermasset.com
 stellarterm.claims
+stellarterm.exchange
