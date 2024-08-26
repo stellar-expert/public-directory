@@ -683,3 +683,4 @@ quantum-financial.network
 quantum-financial-system.io
 quantum-financial-system.org
 quantum-future.co
+quantum-gesara.org
