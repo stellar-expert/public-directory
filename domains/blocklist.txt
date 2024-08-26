@@ -1238,3 +1238,4 @@ velo-network.org
 velonetwork.org
 velonetworks.io
 velo.newstellarhq.com
+velo.org.so
