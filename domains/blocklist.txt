@@ -198,3 +198,4 @@ aud.global
 australiamines.digital
 australian-stellar.digital
 azurequantum.gold
+babydoge.lol
