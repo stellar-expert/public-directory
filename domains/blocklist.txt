@@ -191,3 +191,4 @@ astronaut.foundation
 astronauts.foundation
 astrosstellar.org
 astro-stellar.org
+astrostellars.org
