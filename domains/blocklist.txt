@@ -1218,3 +1218,4 @@ velolab.network
 velolabs.co
 velolabs.digital
 velolabs.io
+velolabs.net
