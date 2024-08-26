@@ -703,3 +703,4 @@ quantumstellar.org
 quantum.stellar-peddler.exchange
 quantum-stellar-system.org
 quantumstellar.systems
+quantumstellar.tech
