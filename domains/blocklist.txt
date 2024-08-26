@@ -466,3 +466,4 @@ induss.gold
 indus.social
 indusstellar.com
 indusstellar.gold
+indusx.exchange
