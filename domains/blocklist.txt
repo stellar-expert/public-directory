@@ -1236,3 +1236,4 @@ velonetwork.digital
 velonetwork.io
 velo-network.org
 velonetwork.org
+velonetworks.io
