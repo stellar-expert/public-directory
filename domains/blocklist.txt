@@ -197,3 +197,4 @@ atomtechnology.tech
 aud.global
 australiamines.digital
 australian-stellar.digital
+azurequantum.gold
