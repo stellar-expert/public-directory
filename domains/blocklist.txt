@@ -213,3 +213,4 @@ circle.claims
 grayscale.co.com
 lobstr.digital
 lobstrvault.org
+centre.claims
