@@ -479,3 +479,4 @@ irdigitalbanking.capital
 iso20022-assets.com
 iso20022assets.com
 iso20022assets.org
+iso20022.bargains
