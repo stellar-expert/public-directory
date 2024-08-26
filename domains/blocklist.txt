@@ -223,3 +223,4 @@ bitcoinstellar.org
 bitcoinstellar.xyz
 bitcoinstocks.exchange
 bitcoinstocks.foundation
+bitcoinstocks.network
