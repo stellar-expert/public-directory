@@ -1104,3 +1104,4 @@ swisscustody.exchange
 swisscustody.finance
 swisscustody.gold
 swisscustody-gold.com
+swiss-custody.org
