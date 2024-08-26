@@ -485,3 +485,4 @@ iso20022.bond
 iso20022-coins.com
 iso20022coins.org
 iso20022coins.solutions
+iso20022crypto.com
