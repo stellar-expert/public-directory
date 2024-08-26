@@ -1090,3 +1090,4 @@ stronghold.claims
 strong-hold.co
 strongholdnet.co
 strongholdon.co
+strongholdpay.co
