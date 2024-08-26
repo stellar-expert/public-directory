@@ -1180,3 +1180,4 @@ ultrastellar.ml
 ultrastellar.network
 ultra-stellar.org
 ultrastellar-quantum.org
+ultrastellar.shop
