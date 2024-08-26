@@ -748,3 +748,4 @@ russiaindus.exchange
 russian-asset.digital
 russian-assets.digital
 russians-assets.digital
+russia.stellar-dex.io
