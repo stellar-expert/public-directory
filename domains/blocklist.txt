@@ -1348,3 +1348,4 @@ x-token.org
 xtokens.co
 x-twitter.exchange
 yaqua.network
+yieldaqua.network
