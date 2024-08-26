@@ -225,3 +225,4 @@ bitcoinstocks.exchange
 bitcoinstocks.foundation
 bitcoinstocks.network
 bitcoin-stocks.xyz
+bitcoinstoks.com
