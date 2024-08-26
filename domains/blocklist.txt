@@ -482,3 +482,4 @@ iso20022assets.org
 iso20022.bargains
 iso-20022.bond
 iso20022.bond
+iso20022-coins.com
