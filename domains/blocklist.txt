@@ -285,3 +285,4 @@ cicada.xmint.io
 cmacgm.digital
 coinbase-assets.com
 coinbaseassets.com
+coinbox.exchange
