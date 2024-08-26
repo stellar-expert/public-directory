@@ -409,3 +409,4 @@ gallileomining.fund
 gallleomining.fund
 gesara.exchange
 gesara.solutions
+gesarateam.com
