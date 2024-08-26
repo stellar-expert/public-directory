@@ -1199,3 +1199,4 @@ vebrfs.digital
 veloasset.com
 veloassets.digital
 veloassets.org
+velo.cash
