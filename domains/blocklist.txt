@@ -1204,3 +1204,4 @@ velochain.net
 velochain.network
 velo.co.com
 velo.com.de
+velo.exchange
