@@ -1266,3 +1266,4 @@ velo-token.com
 velotoken.lumens-dex.com
 velotoken.net
 velo-token.org
+velotoken.org
