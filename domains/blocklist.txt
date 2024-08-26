@@ -286,3 +286,4 @@ cmacgm.digital
 coinbase-assets.com
 coinbaseassets.com
 coinbox.exchange
+coinexchange.onl
