@@ -1321,3 +1321,4 @@ xlmlostr.netlify.app
 xlmmatic.netlify.app
 xlmmiota.netlify.app
 xlmorphixstellar.com
+xlm.space-tech.exchange
