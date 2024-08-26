@@ -697,3 +697,4 @@ quantumstellar.digital
 quantumstellar.foundation
 quantumstellar.gold
 quantum-stellar-initiative.com
+quantum-stellar-initiative.org
