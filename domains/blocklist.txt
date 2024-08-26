@@ -763,3 +763,4 @@ saudi-stellar.digital
 sber.global
 sbistellar.com
 sgpmx.fund
+sgxpm.fund
