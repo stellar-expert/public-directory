@@ -1196,3 +1196,4 @@ vdcs.digital
 vdcs.io
 vebrfr.digital
 vebrfs.digital
+veloasset.com
