@@ -598,3 +598,4 @@ nbuz.digital
 nesara.solutions
 netcoin.gold
 nevadamining.gold
+newdawn.gold
