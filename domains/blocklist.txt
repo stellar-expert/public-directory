@@ -1201,3 +1201,4 @@ veloassets.digital
 veloassets.org
 velo.cash
 velochain.net
+velochain.network
