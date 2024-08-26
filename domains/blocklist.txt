@@ -1220,3 +1220,4 @@ velolabs.digital
 velolabs.io
 velolabs.net
 velolabs.network
+velolabs.org
