@@ -970,3 +970,4 @@ stellar-peddler.exchange
 stellarperu.net
 stellarphilippines.net
 stellarpieces.com
+stellar-pi.network
