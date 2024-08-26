@@ -1164,3 +1164,4 @@ ultimatum.network
 ultimatums.network
 ultlmatum.network
 ultracapital.cfd
+ultracapital.io
