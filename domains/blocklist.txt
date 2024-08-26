@@ -871,3 +871,4 @@ stellarcustody.gold
 stellardevelopers.dev
 stellardevelopers.org
 stellardex.exchange
+stellar-dex.io
