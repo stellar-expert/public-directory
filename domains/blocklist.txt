@@ -676,3 +676,4 @@ quantstellar.org
 quantuldollars.digital
 quantumassets.finance
 quantumassets.org
+quantum.coin-peddler.org
