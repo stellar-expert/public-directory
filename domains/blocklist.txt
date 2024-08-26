@@ -1101,3 +1101,4 @@ swissbanks.claims
 swisscustody.claims
 swiss-custody.com
 swisscustody.exchange
+swisscustody.finance
