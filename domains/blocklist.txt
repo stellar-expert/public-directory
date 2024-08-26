@@ -487,3 +487,4 @@ iso20022coins.org
 iso20022coins.solutions
 iso20022crypto.com
 iso20022.exchange
+iso20022.finance
