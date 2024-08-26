@@ -1132,3 +1132,4 @@ top10.forex
 tradelens.io
 transafrica.vip
 trumpcoin.stellarmint.io
+trump.forex
