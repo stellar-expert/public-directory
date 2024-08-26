@@ -662,3 +662,4 @@ qatarworldcup.tech
 qazkom.digital
 qec.finance
 qfs.tech
+qfs-tokens.org
