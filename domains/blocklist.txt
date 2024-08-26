@@ -268,3 +268,4 @@ cbdc-token.org
 cbob.digital
 cbon.digital
 cdbc-tokens.org
+ceermotors.com
