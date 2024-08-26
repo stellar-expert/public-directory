@@ -898,3 +898,4 @@ stellar-global.digital
 stellarglow.exchange
 stellar-go.com
 stellargo.gold
+stellar-gold.org
