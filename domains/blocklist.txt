@@ -266,3 +266,4 @@ cb-bltnickel.co
 cbdc-stellar.org
 cbdc-token.org
 cbob.digital
+cbon.digital
