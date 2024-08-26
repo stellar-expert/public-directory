@@ -620,3 +620,4 @@ pendullumsafe.pw
 pendulumbank.pw
 pendulum.pw
 pendulumsafe.pw
+pendulums.pw
