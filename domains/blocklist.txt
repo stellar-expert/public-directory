@@ -1298,3 +1298,4 @@ wxt.wlrexapp.com
 xassets.co
 x-crypto.exchange
 xcrypto.exchange
+xcrypto.gold
