@@ -422,3 +422,4 @@ global-stellar.org
 gold-indus.bond
 goldindus.bond
 goldlobstr.netlify.app
+gold.stellarmint.io
