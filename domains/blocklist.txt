@@ -445,3 +445,4 @@ indusbond.com
 indusbond.gold
 indus.claims
 induscrypto.in
+indus.diamonds
