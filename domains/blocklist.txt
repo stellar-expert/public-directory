@@ -288,3 +288,4 @@ coinbaseassets.com
 coinbox.exchange
 coinexchange.onl
 coinonstellar.com
+colnbase.trade
