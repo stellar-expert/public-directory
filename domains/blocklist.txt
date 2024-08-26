@@ -1241,3 +1241,4 @@ velo.newstellarhq.com
 velo.org.so
 velopayment.co
 velo-payment.com
+velo-payment.org
