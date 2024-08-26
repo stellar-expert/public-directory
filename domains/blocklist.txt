@@ -394,3 +394,4 @@ flare-network.io
 flarenetworks.co
 flare-networks.io
 flare-networks.xyz
+flares.network
