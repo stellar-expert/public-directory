@@ -208,3 +208,4 @@ bfalliance.exchange
 biackbox.exchange
 binance-assets.com
 binanceassets.com
+binance.law
