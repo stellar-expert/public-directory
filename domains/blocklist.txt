@@ -717,3 +717,4 @@ quantum-tech.exchange
 quantum-tokens.org
 quanturn-system.finance
 quatumstellar.ai
+qya.finance
