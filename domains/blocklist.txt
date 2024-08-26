@@ -661,3 +661,4 @@ qatar.stellar-dex.io
 qatarworldcup.tech
 qazkom.digital
 qec.finance
+qfs.tech
