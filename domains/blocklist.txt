@@ -366,3 +366,4 @@ etoro-crypto.com
 etoro.financial
 etoro.forex
 etoro.investments
+etoro.market
