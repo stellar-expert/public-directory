@@ -778,3 +778,4 @@ social-truth.co
 social-truth.net
 soroban.exchange
 soroban.forex
+soroban.gold
