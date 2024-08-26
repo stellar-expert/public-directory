@@ -1337,3 +1337,4 @@ xrpvault.stellarmint.io
 xrpxau.stellarmint.io
 xstellar.cfd
 xstellar.claims
+xstellar.lol
