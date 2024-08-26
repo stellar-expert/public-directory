@@ -396,3 +396,4 @@ flare-networks.io
 flare-networks.xyz
 flares.network
 flarestellar.com
+flarestellar.xyz
