@@ -1222,3 +1222,4 @@ velolabs.net
 velolabs.network
 velolabs.org
 velolabs.stellar-network.org
+velolabs.tech
