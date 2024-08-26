@@ -443,3 +443,4 @@ indices365.com
 indus.bond
 indusbond.com
 indusbond.gold
+indus.claims
