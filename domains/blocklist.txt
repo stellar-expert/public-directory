@@ -492,3 +492,4 @@ iso20022.financial
 iso20022.foundation
 iso20022.network
 iso20022stellar.org
+iso20022.trade
