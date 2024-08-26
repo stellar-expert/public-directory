@@ -1027,3 +1027,4 @@ stellar-token.net
 stellartokens.io
 stellartokens.network
 stellartokens.stellarmint.io
+stellartokens.trade
