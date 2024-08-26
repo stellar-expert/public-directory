@@ -489,3 +489,4 @@ iso20022crypto.com
 iso20022.exchange
 iso20022.finance
 iso20022.financial
+iso20022.foundation
