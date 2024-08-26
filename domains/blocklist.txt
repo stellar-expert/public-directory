@@ -1108,3 +1108,4 @@ swiss-custody.org
 swisscustodys.org
 swisscustodyx.github.io
 symgenta.tech
+syngenta.tech
