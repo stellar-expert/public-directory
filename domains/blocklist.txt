@@ -211,3 +211,4 @@ binanceassets.com
 binance.law
 circle.claims
 grayscale.co.com
+lobstr.digital
