@@ -423,3 +423,4 @@ gold-indus.bond
 goldindus.bond
 goldlobstr.netlify.app
 gold.stellarmint.io
+gwallet.tech
