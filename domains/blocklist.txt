@@ -538,3 +538,4 @@ lobstr.claims
 lobstr.co.com
 lobstr.com.co
 lobstr.exchange
+lobstr.forex
