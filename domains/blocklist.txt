@@ -181,3 +181,4 @@ aqua.claims
 aqua.forex
 aqua-guardian.digital
 aqua.markets
+aqua-network.org
