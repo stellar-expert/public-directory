@@ -363,3 +363,4 @@ e-rus.com
 e-russ.com
 etoro-commodities.com
 etoro-crypto.com
+etoro.financial
