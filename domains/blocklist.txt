@@ -1014,3 +1014,4 @@ stellarteam.co
 stellarteam.exchange
 stellar-team.org
 stellarteam.tech
+stellar-techpoint.exchange
