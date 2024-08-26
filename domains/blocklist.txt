@@ -745,3 +745,4 @@ rivalcoins.io
 ro-stellar.co
 rusian-assets.digital
 russiaindus.exchange
+russian-asset.digital
