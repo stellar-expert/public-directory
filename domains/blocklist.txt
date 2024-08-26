@@ -678,3 +678,4 @@ quantumassets.finance
 quantumassets.org
 quantum.coin-peddler.org
 quantum-finance-network.org
+quantum-finance-system.org
