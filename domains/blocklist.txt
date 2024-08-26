@@ -1207,3 +1207,4 @@ velo.com.de
 velo.exchange
 velofinance.co
 velofinance.net
+velofinance.tech
