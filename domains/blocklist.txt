@@ -452,3 +452,4 @@ indus-gold.finance
 indus-gold.financial
 indus-gold.org
 indusgold.org
+indusgold.stellarmint.io
