@@ -1246,3 +1246,4 @@ velopayment.org
 velopayments.io
 velopayments.org
 velopay.org
+veloprotocol.net
