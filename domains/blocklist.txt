@@ -1177,3 +1177,4 @@ ultrastellar.com.co
 ultrastellar.fun
 ultrastellar.llc
 ultrastellar.ml
+ultrastellar.network
