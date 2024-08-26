@@ -1296,3 +1296,4 @@ wxlm.shop
 wxlm.store
 wxt.wlrexapp.com
 xassets.co
+x-crypto.exchange
