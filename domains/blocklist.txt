@@ -757,3 +757,4 @@ safependulum.org
 sama-stellar.digital
 sap.cash
 sarb.digital
+satoshi-pay.org
