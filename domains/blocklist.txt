@@ -379,3 +379,4 @@ expertstellar.com
 famoustellar.com
 fchainassets.com
 fchain.claims
+fchain.exchange
