@@ -702,3 +702,4 @@ quantum.stellar-loop.exchange
 quantumstellar.org
 quantum.stellar-peddler.exchange
 quantum-stellar-system.org
+quantumstellar.systems
