@@ -291,3 +291,4 @@ coinonstellar.com
 colnbase.trade
 commodities.financial
 commodities.foundation
+commodities.investments
