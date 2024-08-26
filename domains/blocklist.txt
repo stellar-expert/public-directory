@@ -1340,3 +1340,4 @@ xstellar.claims
 xstellar.lol
 xstellar.org
 xstellar.shop
+xstellar.so
