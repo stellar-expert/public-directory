@@ -1149,3 +1149,4 @@ turkish-gems.co
 turkish-gems.org
 turkishgems.org
 turkish-lira.org
+turklsh-gems.org
