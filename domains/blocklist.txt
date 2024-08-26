@@ -1215,3 +1215,4 @@ velohub-stellar.com
 velolab.co
 velolab.digital
 velolab.network
+velolabs.co
