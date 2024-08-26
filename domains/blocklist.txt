@@ -1360,3 +1360,4 @@ ystellar.capital
 ystellar.co
 ystellar.com
 ystellar.org
+ystellar.shop
