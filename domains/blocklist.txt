@@ -645,3 +645,4 @@ projectguardian.claims
 project-guardian.com
 project-jura.com
 projectjura.digital
+project-lgold.digital
