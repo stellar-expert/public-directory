@@ -190,3 +190,4 @@ asset.stellarprojects.org
 astronaut.foundation
 astronauts.foundation
 astrosstellar.org
+astro-stellar.org
