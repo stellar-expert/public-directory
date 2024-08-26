@@ -189,3 +189,4 @@ assets-indus.exchange
 asset.stellarprojects.org
 astronaut.foundation
 astronauts.foundation
+astrosstellar.org
