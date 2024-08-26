@@ -290,3 +290,4 @@ coinexchange.onl
 coinonstellar.com
 colnbase.trade
 commodities.financial
+commodities.foundation
