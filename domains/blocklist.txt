@@ -460,3 +460,4 @@ induspay.gold
 induspayment.com
 induspayment.exchange
 induspayment.org
+induspayments.capital
