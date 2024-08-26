@@ -1198,3 +1198,4 @@ vebrfr.digital
 vebrfs.digital
 veloasset.com
 veloassets.digital
+veloassets.org
