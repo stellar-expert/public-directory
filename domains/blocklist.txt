@@ -999,3 +999,4 @@ stellarsquare.com
 stellarstocks.bond
 stellarstocks.exchange
 stellar-stocks.org
+stellarstoq.claims
