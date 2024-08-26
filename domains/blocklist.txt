@@ -1243,3 +1243,4 @@ velopayment.co
 velo-payment.com
 velo-payment.org
 velopayment.org
+velopayments.io
