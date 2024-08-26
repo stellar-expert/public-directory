@@ -1067,3 +1067,4 @@ stellar-xgate.one
 stellarxlm.org
 stellarxlm.us
 stellarx.network
+stellarx.trade
