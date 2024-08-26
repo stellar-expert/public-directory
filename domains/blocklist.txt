@@ -218,3 +218,4 @@ binance.nyc
 binance-stellar.exchange
 bisinnovations.capital
 bitbox.exchange
+bitcoinbank.gold
