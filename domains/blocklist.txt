@@ -692,3 +692,4 @@ quantumripple.network
 quantumripple.org
 quantum-space.org
 quantum.space-tech.exchange
+quantumstellar.computer
