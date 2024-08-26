@@ -215,3 +215,4 @@ lobstr.digital
 lobstrvault.org
 centre.claims
 binance.nyc
+binance-stellar.exchange
