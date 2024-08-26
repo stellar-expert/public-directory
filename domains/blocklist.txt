@@ -475,3 +475,4 @@ interstelar.exchange
 inter-stellar.exchange
 interstellarx.exchange
 iobstr.co
+irdigitalbanking.capital
