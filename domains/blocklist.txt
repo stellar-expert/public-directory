@@ -1315,3 +1315,4 @@ xinfin.claims
 xinfinxrp.com
 xlmcoin.xyz
 xlmhbar.netlify.app
+xlminr.com
