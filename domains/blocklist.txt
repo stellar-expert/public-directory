@@ -182,3 +182,4 @@ aqua.forex
 aqua-guardian.digital
 aqua.markets
 aqua-network.org
+aqua-stellar.com
