@@ -542,3 +542,4 @@ lobstr.forex
 lobstrnetwork.com
 lobstrr.com
 lobstr-stocks.com
+lobstr.trade
