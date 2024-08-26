@@ -477,3 +477,4 @@ interstellarx.exchange
 iobstr.co
 irdigitalbanking.capital
 iso20022-assets.com
+iso20022assets.com
