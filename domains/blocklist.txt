@@ -250,3 +250,4 @@ brics-network.org
 bricsreserve.xmint.io
 bricsstellar.com
 brics-stellar.org
+bricsstellar.org
