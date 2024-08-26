@@ -387,3 +387,4 @@ fchainxrp.io
 fchainz.io
 flare-assets.com
 flareassets.com
+flare.claims
