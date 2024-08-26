@@ -832,3 +832,4 @@ stellarasset.org
 stellarassets.claims
 stellarassets.digital
 stellarassets.io
+stellarassets.net
