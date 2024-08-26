@@ -1063,3 +1063,4 @@ stellar-x.ai
 stellarx.claims
 stellarx.exchange
 stellarx.expert
+stellar-xgate.one
