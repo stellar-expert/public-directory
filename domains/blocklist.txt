@@ -276,3 +276,4 @@ chemitoken.org
 chemitokens.com
 chemitokens.org
 chinadevbank.org
+chinares.gold
