@@ -1165,3 +1165,4 @@ ultimatums.network
 ultlmatum.network
 ultracapital.cfd
 ultracapital.io
+ultracapitals.xyz
