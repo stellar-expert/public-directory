@@ -700,3 +700,4 @@ quantum-stellar-initiative.com
 quantum-stellar-initiative.org
 quantum.stellar-loop.exchange
 quantumstellar.org
+quantum.stellar-peddler.exchange
