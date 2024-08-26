@@ -663,3 +663,4 @@ qazkom.digital
 qec.finance
 qfs.tech
 qfs-tokens.org
+qlumen.com
