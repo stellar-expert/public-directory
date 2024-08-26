@@ -1135,3 +1135,4 @@ trumpcoin.stellarmint.io
 trump.forex
 trumpfoundation.xyz
 trump.investments
+trump-real.estate
