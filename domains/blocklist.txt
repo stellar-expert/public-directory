@@ -254,3 +254,4 @@ bricsstellar.org
 brics.stellarprojects.org
 brics.stellarworld.digital
 bricst.io
+bricst-stellar.com
