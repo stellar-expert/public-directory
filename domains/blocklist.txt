@@ -1233,3 +1233,4 @@ velometals.com
 velonet.tech
 velo.network
 velonetwork.digital
+velonetwork.io
