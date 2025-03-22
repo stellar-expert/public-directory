@@ -1,0 +1,10 @@
+{
+  "address": "GAX5TXB5RYJNLBUR477PEXM4X75APK2PGMTN6KEFQSESGWFXEAKFSXJO",
+  "name": "Phoenix",
+  "tags": [
+    "anchor",
+    "issuer"
+  ],
+  "domain": "app.phoenix-hub.io",
+  "version": 0
+}

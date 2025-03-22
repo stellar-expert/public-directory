@@ -1,9 +1,10 @@
 {
   "address": "GAL2IMMFZQD2MDT4GOMTPFIB6HQSVNY7PZRWELUMJYJTH7JLLZWG2QBH",
-  "name": "Serial SCAM Minter's laundering account",
+  "name": "SideShift",
   "tags": [
-    "malicious",
-    "unsafe"
+    "exchange",
+    "memo-required"
   ],
-  "version": 0
+  "domain": "sideshift.ai",
+  "version": 1
 }

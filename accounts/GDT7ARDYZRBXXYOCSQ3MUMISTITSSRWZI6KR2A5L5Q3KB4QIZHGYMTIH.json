@@ -1,0 +1,10 @@
+{
+  "address": "GDT7ARDYZRBXXYOCSQ3MUMISTITSSRWZI6KR2A5L5Q3KB4QIZHGYMTIH",
+  "name": "Bybit",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "bybit.com",
+  "version": 0
+}

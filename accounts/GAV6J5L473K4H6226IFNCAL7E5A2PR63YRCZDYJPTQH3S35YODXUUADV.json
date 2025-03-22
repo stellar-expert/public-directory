@@ -1,9 +1,9 @@
 {
   "address": "GAV6J5L473K4H6226IFNCAL7E5A2PR63YRCZDYJPTQH3S35YODXUUADV",
-  "domain": "coinbase.com",
-  "name": "Coinbase Withdrawals",
+  "name": "Coinbase",
   "tags": [
     "exchange"
   ],
-  "version": 0
+  "domain": "coinbase.com",
+  "version": 1
 }

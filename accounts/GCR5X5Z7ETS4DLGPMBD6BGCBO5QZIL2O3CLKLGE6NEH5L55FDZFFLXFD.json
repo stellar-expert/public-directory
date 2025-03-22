@@ -1,0 +1,10 @@
+{
+  "address": "GCR5X5Z7ETS4DLGPMBD6BGCBO5QZIL2O3CLKLGE6NEH5L55FDZFFLXFD",
+  "name": "Coinbase",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "coinbase.com",
+  "version": 0
+}
