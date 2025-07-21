@@ -1,12 +1,9 @@
 {
   "address": "GCNSGHUCG5VMGLT5RIYYZSO7VQULQKAJ62QA33DBC5PPBSO57LFWVV6P",
-  "domain": "interstellar.exchange",
   "name": "InterstellarExchange",
   "tags": [
-    "anchor",
-    "issuer",
-    "exchange",
-    "memo-required"
+    "unsafe"
   ],
-  "version": 1
+  "domain": "interstellar.exchange",
+  "version": 2
 }
