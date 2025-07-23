@@ -1,9 +1,9 @@
 {
   "address": "GDODU4ADATBOFTOK2BMAZI6UCW5EFU3IZTHLRNHYO7KX52XELROM3G4F",
-  "domain": "cryptocapital.io",
   "name": "CryptoCapital",
   "tags": [
-    "anchor"
+    "unsafe"
   ],
-  "version": 0
+  "domain": "cryptocapital.io",
+  "version": 1
 }
