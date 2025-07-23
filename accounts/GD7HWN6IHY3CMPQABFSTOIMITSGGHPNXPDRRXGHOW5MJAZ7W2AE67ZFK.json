@@ -1,0 +1,10 @@
+{
+  "address": "GD7HWN6IHY3CMPQABFSTOIMITSGGHPNXPDRRXGHOW5MJAZ7W2AE67ZFK",
+  "name": "Fake Asset",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "xbank-stellar.com",
+  "version": 0
+}
