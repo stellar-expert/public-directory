@@ -1,0 +1,10 @@
+{
+  "address": "GD4CJQSGDEYUA7GXMSKBKMDHXEJ7MFBHQUUGA3DRLKMGEDOP7USPYUSD",
+  "name": "Deceptive Asset",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "pyusd-stellar.com",
+  "version": 0
+}
