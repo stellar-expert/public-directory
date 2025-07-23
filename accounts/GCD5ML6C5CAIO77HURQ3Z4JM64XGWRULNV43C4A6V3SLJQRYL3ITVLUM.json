@@ -1,0 +1,10 @@
+{
+  "address": "GCD5ML6C5CAIO77HURQ3Z4JM64XGWRULNV43C4A6V3SLJQRYL3ITVLUM",
+  "name": "Fake Asset",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "lumen.exchange",
+  "version": 0
+}
