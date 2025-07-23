@@ -1,0 +1,10 @@
+{
+  "address": "GDD343CKWZQT6ALNWWBTUU3EBLCVGNQ7QFEBA4GWSPPMIJ2BAJR42AAX",
+  "name": "Fake Asset",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "aqua.tomlhosting.co",
+  "version": 0
+}
