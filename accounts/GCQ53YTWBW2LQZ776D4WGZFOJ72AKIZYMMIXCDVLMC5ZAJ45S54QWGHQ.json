@@ -1,9 +1,9 @@
 {
   "address": "GCQ53YTWBW2LQZ776D4WGZFOJ72AKIZYMMIXCDVLMC5ZAJ45S54QWGHQ",
-  "domain": "www.anchorusd.com",
   "name": "AnchorUSD",
   "tags": [
-    "anchor"
+    "unsafe"
   ],
-  "version": 0
+  "domain": "www.anchorusd.com",
+  "version": 1
 }
