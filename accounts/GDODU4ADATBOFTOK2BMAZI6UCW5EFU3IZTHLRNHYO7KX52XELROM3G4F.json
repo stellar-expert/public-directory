@@ -1,9 +1,10 @@
 {
   "address": "GDODU4ADATBOFTOK2BMAZI6UCW5EFU3IZTHLRNHYO7KX52XELROM3G4F",
-  "name": "CryptoCapital",
+  "name": "PayKassa",
   "tags": [
-    "unsafe"
+    "custodian",
+    "memo-required"
   ],
-  "domain": "cryptocapital.io",
-  "version": 1
+  "domain": "paykassa.pro",
+  "version": 2
 }
