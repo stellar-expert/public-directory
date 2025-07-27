@@ -1,0 +1,10 @@
+{
+  "address": "GAWTXGDYOU73A4QNPQYN5OJZLTSX2ZPHMFLN6XTW6GSEE7JJWQURMQQ2",
+  "name": "Serial Minter",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "atmbank.org",
+  "version": 0
+}
