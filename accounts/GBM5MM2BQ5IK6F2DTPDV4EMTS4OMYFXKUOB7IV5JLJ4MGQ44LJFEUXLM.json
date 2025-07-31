@@ -1,0 +1,10 @@
+{
+  "address": "GBM5MM2BQ5IK6F2DTPDV4EMTS4OMYFXKUOB7IV5JLJ4MGQ44LJFEUXLM",
+  "name": "Serial Minter / Fake Assets",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar.us.org",
+  "version": 0
+}
