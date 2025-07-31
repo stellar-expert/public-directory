@@ -1,10 +1,10 @@
 {
   "address": "GD5WXVP26BHV5KSULCISNAFNDCECWRC5RUVLIKCA5HYOYJBOFJ62A3ED",
-  "name": "Serial Minter",
+  "name": "Serial Minter / Fake Assets",
   "tags": [
     "unsafe",
     "malicious"
   ],
   "domain": "meakingdom.com",
-  "version": 0
+  "version": 1
 }
