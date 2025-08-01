@@ -1,0 +1,10 @@
+{
+  "address": "GAXSGZ2JM3LNWOO4WRGADISNMWO4HQLG4QBGUZRKH5ZHL3EQBGX73ICE",
+  "name": "AQUA Issuer",
+  "tags": [
+    "anchor",
+    "issuer"
+  ],
+  "domain": "aqua.network",
+  "version": 0
+}
