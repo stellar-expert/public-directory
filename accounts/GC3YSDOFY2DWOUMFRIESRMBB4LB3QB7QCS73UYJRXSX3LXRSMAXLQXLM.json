@@ -1,0 +1,10 @@
+{
+  "address": "GC3YSDOFY2DWOUMFRIESRMBB4LB3QB7QCS73UYJRXSX3LXRSMAXLQXLM",
+  "name": "Scam Asset",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-soroban.org",
+  "version": 0
+}
