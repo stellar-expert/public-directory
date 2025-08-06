@@ -1,0 +1,10 @@
+{
+  "address": "GBHGQIEHJWHGTX5IRQKZIWDKM526XABKJHMBZ6JGFZEJAKKQV6RQZXLM",
+  "name": "Serial Minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ai-stellar.net",
+  "version": 0
+}
