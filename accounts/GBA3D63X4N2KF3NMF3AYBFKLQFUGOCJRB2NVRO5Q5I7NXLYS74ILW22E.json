@@ -1,0 +1,10 @@
+{
+  "address": "GBA3D63X4N2KF3NMF3AYBFKLQFUGOCJRB2NVRO5Q5I7NXLYS74ILW22E",
+  "name": "Fake Asset",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "xrp.lobstr.pro",
+  "version": 0
+}
