@@ -1,0 +1,10 @@
+{
+  "address": "GB2ES2N326MZK4EGJBKN3ZARCQ5RTFQSAWIJAAKFVIIIJSCC35TXIMLB",
+  "name": "Robinhood",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "robinhood.com",
+  "version": 0
+}
