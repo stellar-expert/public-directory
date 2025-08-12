@@ -1,0 +1,10 @@
+{
+  "address": "GAEDJAQTKDQI5NLDMXMQ3JSRVA2K6OSRFPV6UPBHLTBF5LNX2H2KGOLD",
+  "name": "Serial Minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "golden.stellar-gold.org",
+  "version": 0
+}
