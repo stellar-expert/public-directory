@@ -1,0 +1,9 @@
+{
+  "address": "GCOM4A7FRVNNTAUFGB32QZ6COFZOE5VQ5QKTRHDI6XMQXSEQDTNPFRGG",
+  "name": "Spam",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "version": 0
+}
