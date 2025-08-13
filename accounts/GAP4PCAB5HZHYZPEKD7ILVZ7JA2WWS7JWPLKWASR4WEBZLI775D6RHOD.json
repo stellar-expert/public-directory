@@ -1,0 +1,10 @@
+{
+  "address": "GAP4PCAB5HZHYZPEKD7ILVZ7JA2WWS7JWPLKWASR4WEBZLI775D6RHOD",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "robinhood.co.com",
+  "version": 0
+}
