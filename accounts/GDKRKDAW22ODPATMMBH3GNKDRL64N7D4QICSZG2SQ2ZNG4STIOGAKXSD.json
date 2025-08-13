@@ -1,0 +1,10 @@
+{
+  "address": "GDKRKDAW22ODPATMMBH3GNKDRL64N7D4QICSZG2SQ2ZNG4STIOGAKXSD",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellardevelopment.foundation",
+  "version": 0
+}
