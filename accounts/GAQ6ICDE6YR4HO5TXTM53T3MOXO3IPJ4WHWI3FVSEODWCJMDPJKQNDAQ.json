@@ -1,0 +1,10 @@
+{
+  "address": "GAQ6ICDE6YR4HO5TXTM53T3MOXO3IPJ4WHWI3FVSEODWCJMDPJKQNDAQ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "nasdaq.foundation",
+  "version": 0
+}
