@@ -1,0 +1,10 @@
+{
+  "address": "GBHPK3E5Y7UCWDI2ELNPM24CMBHR3OOQNIXIPYR6VFXQVFHX4QP5V36E",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "soroban-stellar.org",
+  "version": 0
+}
