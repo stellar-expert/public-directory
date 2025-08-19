@@ -1,0 +1,10 @@
+{
+  "address": "GCWFIBRGVM2WRGLUYXOGQY6AYLOFIKOL5WBC6Q42I6HJJTD7CM55GRAY",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "grayscale.com.co",
+  "version": 0
+}
