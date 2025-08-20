@@ -1,0 +1,10 @@
+{
+  "address": "GDYJ7Q6FYCB2M25AFZNOVTWH4HGK75E3ELT33G6CWSLQBUKMCBDYXAVA",
+  "name": "Serial Minter",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "mintsoroban.org",
+  "version": 0
+}
