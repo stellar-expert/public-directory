@@ -1,0 +1,10 @@
+{
+  "address": "GDJEBNFMUZI66MCELMOL5UPBHNBF6UC4A4GKRCCFOJ45RKNVKWPXFEDL",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "federalreserve.co.com",
+  "version": 0
+}
