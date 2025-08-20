@@ -1,0 +1,10 @@
+{
+  "address": "GBTC3LK27MMTGFTYEFRRO3PUTQCH5I7U53W67EIJXSAZVTMGZKD5STAT",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "statestreet.us.com",
+  "version": 0
+}
