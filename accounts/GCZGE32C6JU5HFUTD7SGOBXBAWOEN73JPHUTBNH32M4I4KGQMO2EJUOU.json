@@ -1,9 +1,9 @@
 {
   "address": "GCZGE32C6JU5HFUTD7SGOBXBAWOEN73JPHUTBNH32M4I4KGQMO2EJUOU",
-  "name": "Micronation Simulation",
+  "name": "LimoDAO",
   "tags": [
-    "personal"
+    "issuer"
   ],
-  "domain": "cbl.flooyd.link",
+  "domain": "limonia.org",
   "version": 0
 }
