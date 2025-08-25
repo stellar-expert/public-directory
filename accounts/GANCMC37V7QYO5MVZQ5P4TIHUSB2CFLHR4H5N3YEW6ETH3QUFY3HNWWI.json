@@ -1,0 +1,10 @@
+{
+  "address": "GANCMC37V7QYO5MVZQ5P4TIHUSB2CFLHR4H5N3YEW6ETH3QUFY3HNWWI",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "tsx.finance",
+  "version": 0
+}
