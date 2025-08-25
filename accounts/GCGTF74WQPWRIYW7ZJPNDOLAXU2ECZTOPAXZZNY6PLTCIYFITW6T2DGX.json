@@ -1,0 +1,10 @@
+{
+  "address": "GCGTF74WQPWRIYW7ZJPNDOLAXU2ECZTOPAXZZNY6PLTCIYFITW6T2DGX",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-blockchain.com",
+  "version": 0
+}
