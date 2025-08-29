@@ -1,0 +1,10 @@
+{
+  "address": "GDS5ANUFWR3QYTPVRKMB3RZUML26BQKTB2NGXZSGNZBTXGUQ7CCHGCJD",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "grayscale.exchange",
+  "version": 0
+}
