@@ -1,0 +1,10 @@
+{
+  "address": "GALSZNUI5W4CW4XZ6YWAI4PJ2R5Y5UOPWX2R7YP3AJR2DO7FQ2KXJ74L",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellarterm.sbs",
+  "version": 0
+}
