@@ -1,0 +1,10 @@
+{
+  "address": "GBZ42LYW7D5IOYORSWVJF7RRJPGDXUGHXCVEEXRDZKRPVHPCYJPWEISO",
+  "name": "Scam",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "iso20022stellar.net",
+  "version": 0
+}
