@@ -1,0 +1,10 @@
+{
+  "address": "GA5BKT5OK6KKSSZZTX27B5QQBBIFYFMYEOFYLE2C5PL2BEN5QKB2BLRK",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "blackrock-assets.org",
+  "version": 0
+}
