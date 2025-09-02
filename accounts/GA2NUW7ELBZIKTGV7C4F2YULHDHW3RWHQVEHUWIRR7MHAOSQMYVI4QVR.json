@@ -1,0 +1,10 @@
+{
+  "address": "GA2NUW7ELBZIKTGV7C4F2YULHDHW3RWHQVEHUWIRR7MHAOSQMYVI4QVR",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ripplenet.netlify.app",
+  "version": 0
+}
