@@ -1,0 +1,10 @@
+{
+  "address": "GAHZ5Y4FOLJECU7AUJRW5X3WELIN6AI3L3ZV4Q7Z3ZSB6NETKX5FOVDN",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ndb.finance",
+  "version": 0
+}
