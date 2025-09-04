@@ -1,0 +1,10 @@
+{
+  "address": "GC3YWNHBTK3WBDLUWF6UDC7SYD2GBP5BZ2OD4W7TKPYG52E63IKGDTD5",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "fchain-rlusd.io",
+  "version": 0
+}
