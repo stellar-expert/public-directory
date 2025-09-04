@@ -1,0 +1,10 @@
+{
+  "address": "GBRRG4GG6FYIKS5JRTZCNQC3K5G7F2MVFOIBYQFNRI5OFP4ADP5WYFLR",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "yflare.org",
+  "version": 0
+}
