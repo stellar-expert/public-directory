@@ -1,0 +1,10 @@
+{
+  "address": "GDX4LDFHCFH3RM6NNVDG4HF2GOXSKNY5XDJMQVSBHHFDMSJR3E5WJURA",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "projectjura.com",
+  "version": 0
+}
