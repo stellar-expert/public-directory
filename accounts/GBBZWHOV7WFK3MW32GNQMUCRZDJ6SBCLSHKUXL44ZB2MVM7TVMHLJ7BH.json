@@ -1,0 +1,10 @@
+{
+  "address": "GBBZWHOV7WFK3MW32GNQMUCRZDJ6SBCLSHKUXL44ZB2MVM7TVMHLJ7BH",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "asxbank.lobstr.pro",
+  "version": 0
+}
