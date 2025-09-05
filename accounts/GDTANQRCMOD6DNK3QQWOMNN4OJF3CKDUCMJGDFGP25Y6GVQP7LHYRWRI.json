@@ -1,0 +1,10 @@
+{
+  "address": "GDTANQRCMOD6DNK3QQWOMNN4OJF3CKDUCMJGDFGP25Y6GVQP7LHYRWRI",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "citi.lobstr.pro",
+  "version": 0
+}
