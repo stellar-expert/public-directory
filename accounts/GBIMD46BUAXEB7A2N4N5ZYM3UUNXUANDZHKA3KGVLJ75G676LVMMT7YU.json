@@ -1,0 +1,10 @@
+{
+  "address": "GBIMD46BUAXEB7A2N4N5ZYM3UUNXUANDZHKA3KGVLJ75G676LVMMT7YU",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "xai.lobstr.pro",
+  "version": 0
+}
