@@ -1,0 +1,10 @@
+{
+  "address": "GBOPDUQIJUNI4TQBGD74DKBC5YXBCMLA6GBOF2A7M46R6AXC2E36TAD6",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "polkadot-stellar.com",
+  "version": 0
+}
