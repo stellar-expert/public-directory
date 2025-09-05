@@ -1,0 +1,10 @@
+{
+  "address": "GB6L3XDHSQL5IKFV47HX6QB7LIGPDL4WT4COOIYQC6IEWNN37RSFKTSH",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "myxbanktoken.lobstr.pro",
+  "version": 0
+}
