@@ -1,0 +1,10 @@
+{
+  "address": "GB7HGCEKQW6LTVJ2DAB4YIDVOIJXTQ3E4CZBLRRILRX3M5VVJXSMD222",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "robinhood.com.im",
+  "version": 0
+}
