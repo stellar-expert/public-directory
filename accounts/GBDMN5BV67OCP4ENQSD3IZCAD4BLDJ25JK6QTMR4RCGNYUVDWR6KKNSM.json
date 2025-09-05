@@ -1,0 +1,10 @@
+{
+  "address": "GBDMN5BV67OCP4ENQSD3IZCAD4BLDJ25JK6QTMR4RCGNYUVDWR6KKNSM",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "xbank.scopuly.pro",
+  "version": 0
+}
