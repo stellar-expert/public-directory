@@ -1,0 +1,10 @@
+{
+  "address": "GBNLMW5QK32XF2KD4JMCCP5FHDX2N22G75NTZXSMGQZVUIB3VYFTINDS",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-indus.org",
+  "version": 0
+}
