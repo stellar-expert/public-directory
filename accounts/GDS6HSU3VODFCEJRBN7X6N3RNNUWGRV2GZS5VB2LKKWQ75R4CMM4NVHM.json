@@ -1,0 +1,10 @@
+{
+  "address": "GDS6HSU3VODFCEJRBN7X6N3RNNUWGRV2GZS5VB2LKKWQ75R4CMM4NVHM",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "delltech.netlify.app",
+  "version": 0
+}
