@@ -1,0 +1,10 @@
+{
+  "address": "GBK75CD3B2ICYWYCGBAYDWE6MVWARTKGGHTZY5WWPX5NI3HQ5UV5IBMQ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ibmsolution.org",
+  "version": 0
+}
