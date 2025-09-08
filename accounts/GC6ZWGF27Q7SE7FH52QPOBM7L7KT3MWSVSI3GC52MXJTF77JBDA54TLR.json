@@ -1,0 +1,10 @@
+{
+  "address": "GC6ZWGF27Q7SE7FH52QPOBM7L7KT3MWSVSI3GC52MXJTF77JBDA54TLR",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "aapl.netlify.app",
+  "version": 0
+}
