@@ -1,0 +1,10 @@
+{
+  "address": "GBOB5LSXULP2XSU5EUJCXATH7FURPBL5HKENLNSHRKGS5G3QPLSGTXRP",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ripplebank.finance",
+  "version": 0
+}
