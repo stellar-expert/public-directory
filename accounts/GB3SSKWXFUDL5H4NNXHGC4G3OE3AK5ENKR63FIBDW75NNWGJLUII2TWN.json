@@ -1,0 +1,10 @@
+{
+  "address": "GB3SSKWXFUDL5H4NNXHGC4G3OE3AK5ENKR63FIBDW75NNWGJLUII2TWN",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ripple.stellarmint.org",
+  "version": 0
+}
