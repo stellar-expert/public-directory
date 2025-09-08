@@ -1,0 +1,10 @@
+{
+  "address": "GBYMX6LJRATYEAWC3TOPHSS7PSMONRXNHYYFJSR3YJT7DZ4CWVT5QXB3",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "willowpay.org",
+  "version": 0
+}
