@@ -1,0 +1,10 @@
+{
+  "address": "GABLP5AC2UEQBX7EEFYPIFXES3U7OOWI36WSWFJF22X3B7UQSF5DNDAQ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "nasdaq.pro",
+  "version": 0
+}
