@@ -1,0 +1,10 @@
+{
+  "address": "GD3DBHNZLMX3LU3KYIOFYYDSPE3WPTJIXREQXYRKNYXZF2WPY7MGXUZU",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "privateequity.stellar-dex.io",
+  "version": 0
+}
