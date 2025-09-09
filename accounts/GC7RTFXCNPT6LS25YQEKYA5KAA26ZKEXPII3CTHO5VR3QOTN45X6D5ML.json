@@ -1,0 +1,10 @@
+{
+  "address": "GC7RTFXCNPT6LS25YQEKYA5KAA26ZKEXPII3CTHO5VR3QOTN45X6D5ML",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "alphabetcash.org",
+  "version": 0
+}
