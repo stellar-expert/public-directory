@@ -1,0 +1,10 @@
+{
+  "address": "GCK357LDP5P32JH6I5UAWV53LWUOVHNW4HGK7WQ3GRXEWILZRCBIYXRP",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "yfchain.org",
+  "version": 0
+}
