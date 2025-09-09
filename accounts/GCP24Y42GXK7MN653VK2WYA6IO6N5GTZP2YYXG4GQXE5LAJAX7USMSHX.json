@@ -1,0 +1,10 @@
+{
+  "address": "GCP24Y42GXK7MN653VK2WYA6IO6N5GTZP2YYXG4GQXE5LAJAX7USMSHX",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "strongholdassets.co",
+  "version": 0
+}
