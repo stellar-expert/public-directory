@@ -1,0 +1,10 @@
+{
+  "address": "GD3JLDPK33RF5VWHEYB2NR6GLPLPTRVV6H6FJZ2ZXZLMIE7KKLBPRXRP",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "ripplelabs-stellar.io",
+  "version": 0
+}
