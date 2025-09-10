@@ -1,0 +1,10 @@
+{
+  "address": "GA5ZSA2UKGIPIBRIGTGSEKHF5PFBPIV4VL6432BJPMYZQEBLL4YXFONE",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "formula1stellar.com",
+  "version": 0
+}
