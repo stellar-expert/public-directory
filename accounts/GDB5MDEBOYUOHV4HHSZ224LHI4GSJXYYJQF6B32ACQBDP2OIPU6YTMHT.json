@@ -1,0 +1,10 @@
+{
+  "address": "GDB5MDEBOYUOHV4HHSZ224LHI4GSJXYYJQF6B32ACQBDP2OIPU6YTMHT",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "coinbasestellar.com",
+  "version": 0
+}
