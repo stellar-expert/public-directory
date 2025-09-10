@@ -1,0 +1,10 @@
+{
+  "address": "GCXBBSXJETM32BY2CL34ESF4P22EF4UPEUKC45I4V2YILERI33CXW4TP",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "nyse.co.com",
+  "version": 0
+}
