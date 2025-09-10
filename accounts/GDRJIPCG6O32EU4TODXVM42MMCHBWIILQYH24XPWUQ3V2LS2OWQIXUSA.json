@@ -1,0 +1,10 @@
+{
+  "address": "GDRJIPCG6O32EU4TODXVM42MMCHBWIILQYH24XPWUQ3V2LS2OWQIXUSA",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "treasury.us.com",
+  "version": 0
+}
