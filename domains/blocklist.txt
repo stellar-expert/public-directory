@@ -1406,3 +1406,4 @@ goldman-stellar.org
 stellarscan.org
 stellarbtc.com
 qsic.finance
+qubic.finance
