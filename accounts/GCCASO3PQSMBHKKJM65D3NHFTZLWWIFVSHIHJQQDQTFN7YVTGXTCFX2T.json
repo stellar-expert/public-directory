@@ -1,0 +1,10 @@
+{
+  "address": "GCCASO3PQSMBHKKJM65D3NHFTZLWWIFVSHIHJQQDQTFN7YVTGXTCFX2T",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "mastercard.co.com",
+  "version": 0
+}
