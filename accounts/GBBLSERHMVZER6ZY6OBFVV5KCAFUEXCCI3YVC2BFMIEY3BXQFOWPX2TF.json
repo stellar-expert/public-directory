@@ -1,0 +1,10 @@
+{
+  "address": "GBBLSERHMVZER6ZY6OBFVV5KCAFUEXCCI3YVC2BFMIEY3BXQFOWPX2TF",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "coinbase.com.co",
+  "version": 0
+}
