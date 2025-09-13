@@ -1,0 +1,10 @@
+{
+  "address": "GAEASV6CZ7HSZR6ANTJV3DJZ5IR3YWGELM5CBN7P7Z2VF4KWC6Z5YBII",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "binance.ceo",
+  "version": 0
+}
