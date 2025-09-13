@@ -1,0 +1,10 @@
+{
+  "address": "GBULWERJX6DQ6IITYSLCOLGOXR2YSIKW5ES35PJWGM764LVKJYKNKNPA",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "treasury.stellar.org",
+  "version": 0
+}
