@@ -1,10 +1,9 @@
 {
   "address": "GDQYXPQ2KEPH6TTVSZL6O3ZQQ4JB3BPTUE4NSVLZNLIAUJTGR5OWVJCR",
-  "name": "Fraud",
+  "name": "Afreum",
   "tags": [
-    "malicious",
-    "unsafe"
+    "issuer"
   ],
   "domain": "afreum.net",
-  "version": 0
+  "version": 1
 }
