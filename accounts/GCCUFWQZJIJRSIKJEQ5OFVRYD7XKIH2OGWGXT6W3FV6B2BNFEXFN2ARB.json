@@ -1,0 +1,10 @@
+{
+  "address": "GCCUFWQZJIJRSIKJEQ5OFVRYD7XKIH2OGWGXT6W3FV6B2BNFEXFN2ARB",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-arbitrage.com",
+  "version": 0
+}
