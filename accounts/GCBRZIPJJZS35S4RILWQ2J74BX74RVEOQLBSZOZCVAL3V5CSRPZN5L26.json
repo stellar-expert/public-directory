@@ -1,0 +1,10 @@
+{
+  "address": "GCBRZIPJJZS35S4RILWQ2J74BX74RVEOQLBSZOZCVAL3V5CSRPZN5L26",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "cboe.com.co",
+  "version": 0
+}
