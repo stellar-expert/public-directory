@@ -1,0 +1,10 @@
+{
+  "address": "GCD4CANO4RRDUXGMTQEQFRWS6PFYYRAM2H2HZV473IWOVYTRR4RVC5RQ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "google.stellarmint.org",
+  "version": 0
+}
