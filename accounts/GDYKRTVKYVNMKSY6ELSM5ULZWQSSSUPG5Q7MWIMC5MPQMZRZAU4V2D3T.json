@@ -1,0 +1,10 @@
+{
+  "address": "GDYKRTVKYVNMKSY6ELSM5ULZWQSSSUPG5Q7MWIMC5MPQMZRZAU4V2D3T",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-nvda.newstellarhub.com",
+  "version": 0
+}
