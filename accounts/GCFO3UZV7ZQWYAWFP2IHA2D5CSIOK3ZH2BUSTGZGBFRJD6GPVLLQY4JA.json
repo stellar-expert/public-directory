@@ -1,0 +1,10 @@
+{
+  "address": "GCFO3UZV7ZQWYAWFP2IHA2D5CSIOK3ZH2BUSTGZGBFRJD6GPVLLQY4JA",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "google.algorithmbit.com",
+  "version": 0
+}
