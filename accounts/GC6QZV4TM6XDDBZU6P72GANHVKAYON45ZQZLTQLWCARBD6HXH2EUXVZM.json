@@ -1,0 +1,10 @@
+{
+  "address": "GC6QZV4TM6XDDBZU6P72GANHVKAYON45ZQZLTQLWCARBD6HXH2EUXVZM",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "gostaking.org",
+  "version": 0
+}
