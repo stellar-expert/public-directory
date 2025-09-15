@@ -1,0 +1,10 @@
+{
+  "address": "GBZ5XABKRDGSX4SI3FOTKDLGHIPHG2SLVCNQEKAKFXCRSQGA66TYV3FX",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "googlecompany.netlify.app",
+  "version": 0
+}
