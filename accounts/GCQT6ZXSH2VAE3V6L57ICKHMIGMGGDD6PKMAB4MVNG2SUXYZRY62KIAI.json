@@ -1,0 +1,10 @@
+{
+  "address": "GCQT6ZXSH2VAE3V6L57ICKHMIGMGGDD6PKMAB4MVNG2SUXYZRY62KIAI",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "nyse.dev",
+  "version": 0
+}
