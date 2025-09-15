@@ -1,0 +1,10 @@
+{
+  "address": "GALGPLDXKNVSJLU46PHEJ5MPTADINDASYUI2OXVM6TUANR5Y4W6GL7AI",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ai.project-stellar.org",
+  "version": 0
+}
