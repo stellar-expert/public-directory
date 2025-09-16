@@ -1,0 +1,10 @@
+{
+  "address": "GAVZNRO3HRS66KGP2VA3HA7XVNCLOPLXD44KZ26DBUS5VUD5N46LJUYJ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-pendulum.com",
+  "version": 0
+}
