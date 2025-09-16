@@ -1,0 +1,9 @@
+{
+  "address": "GD4BDH4QX4LRQC7ZE2XYQF7F4TFODAHZKY5LLWSTPQFFHEW2ICGC4XPI",
+  "name": "Fraud Actor",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "version": 0
+}
