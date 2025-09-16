@@ -1,0 +1,10 @@
+{
+  "address": "GCV7KZS24AVDO4E7QOV4LPV7VQLK4YNB65YQYEGGZVZMLPZGPLIC6GOV",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "commerce.gov.com.bz",
+  "version": 0
+}
