@@ -1,0 +1,10 @@
+{
+  "address": "GDZIM4RDGU73EKC65YIKHS4URLV7HSVAFPW4GLCXXO5KM3SZ2X4BQNTX",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "velo.lobstr.pro",
+  "version": 0
+}
