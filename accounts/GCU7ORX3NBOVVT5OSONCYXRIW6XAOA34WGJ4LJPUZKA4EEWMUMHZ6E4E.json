@@ -1,0 +1,10 @@
+{
+  "address": "GCU7ORX3NBOVVT5OSONCYXRIW6XAOA34WGJ4LJPUZKA4EEWMUMHZ6E4E",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "thewaltdisney.netlify.app",
+  "version": 0
+}
