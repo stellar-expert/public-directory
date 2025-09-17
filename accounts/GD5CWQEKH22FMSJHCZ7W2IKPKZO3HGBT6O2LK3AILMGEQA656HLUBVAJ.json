@@ -1,0 +1,10 @@
+{
+  "address": "GD5CWQEKH22FMSJHCZ7W2IKPKZO3HGBT6O2LK3AILMGEQA656HLUBVAJ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "kraken.com.bz",
+  "version": 0
+}
