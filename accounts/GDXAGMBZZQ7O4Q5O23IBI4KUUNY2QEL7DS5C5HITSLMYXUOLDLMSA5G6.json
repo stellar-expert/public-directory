@@ -1,0 +1,10 @@
+{
+  "address": "GDXAGMBZZQ7O4Q5O23IBI4KUUNY2QEL7DS5C5HITSLMYXUOLDLMSA5G6",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "airbnbninc.netlify.app",
+  "version": 0
+}
