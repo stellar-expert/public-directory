@@ -1,0 +1,10 @@
+{
+  "address": "GAMIJH2NAYVM3DL3253VCPFUZQ6ULB4DB46IG6F67R7MQ3MC2JWALBLK",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "blackrock.com.de",
+  "version": 0
+}
