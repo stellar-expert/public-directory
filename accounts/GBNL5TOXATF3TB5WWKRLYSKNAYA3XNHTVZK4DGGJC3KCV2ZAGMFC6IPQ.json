@@ -1,0 +1,10 @@
+{
+  "address": "GBNL5TOXATF3TB5WWKRLYSKNAYA3XNHTVZK4DGGJC3KCV2ZAGMFC6IPQ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "facebookwallet.netlify.app",
+  "version": 0
+}
