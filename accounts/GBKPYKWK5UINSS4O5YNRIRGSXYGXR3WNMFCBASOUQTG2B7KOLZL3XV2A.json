@@ -1,0 +1,10 @@
+{
+  "address": "GBKPYKWK5UINSS4O5YNRIRGSXYGXR3WNMFCBASOUQTG2B7KOLZL3XV2A",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stocks.grayscale.co.com",
+  "version": 0
+}
