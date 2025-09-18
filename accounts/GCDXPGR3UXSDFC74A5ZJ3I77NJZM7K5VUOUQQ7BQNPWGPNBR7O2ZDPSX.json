@@ -1,0 +1,10 @@
+{
+  "address": "GCDXPGR3UXSDFC74A5ZJ3I77NJZM7K5VUOUQQ7BQNPWGPNBR7O2ZDPSX",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "stellar-paxos.com",
+  "version": 0
+}
