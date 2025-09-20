@@ -1,0 +1,10 @@
+{
+  "address": "GC3F7HCVY2I3NKRJ33AUWOHAYP267EV536T2KT6GYGNSNEZ6WYUPYBFM",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "telebank-stellar.com",
+  "version": 0
+}
