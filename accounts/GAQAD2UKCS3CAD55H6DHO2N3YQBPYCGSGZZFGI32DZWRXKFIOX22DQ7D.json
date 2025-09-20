@@ -1,0 +1,10 @@
+{
+  "address": "GAQAD2UKCS3CAD55H6DHO2N3YQBPYCGSGZZFGI32DZWRXKFIOX22DQ7D",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "asx-bank.com",
+  "version": 0
+}
