@@ -1,0 +1,10 @@
+{
+  "address": "GDNGFERZB7ZSQCYG63E2QFFX35VAFWPQTPLYG6VCJK27PS2AMQYUSORO",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "soroban.pw",
+  "version": 0
+}
