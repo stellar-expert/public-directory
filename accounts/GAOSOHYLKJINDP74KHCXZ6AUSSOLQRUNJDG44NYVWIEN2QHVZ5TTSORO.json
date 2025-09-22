@@ -1,0 +1,10 @@
+{
+  "address": "GAOSOHYLKJINDP74KHCXZ6AUSSOLQRUNJDG44NYVWIEN2QHVZ5TTSORO",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "soroban.pw",
+  "version": 0
+}
