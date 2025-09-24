@@ -1,0 +1,10 @@
+{
+  "address": "GB45KQQZGAJIC6Q3DUNQP5RIBOINY7CRL3CQRR6NCLAZ7AHKVCE3HMQT",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "bnb.lobstr.pro",
+  "version": 0
+}
