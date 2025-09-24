@@ -1,0 +1,10 @@
+{
+  "address": "GCFB6YDIPEKRYSVPBQFKFJZFGGSGX42TQ37WFN4XYC2WH3NVWABNDFLR",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "flare-network.dev",
+  "version": 0
+}
