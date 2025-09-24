@@ -1,0 +1,10 @@
+{
+  "address": "GCCARYWRIEGCBIK44PVZRDS4ZKDDIJMT5YXDQLQ2UDEMGOFPVZZ5XRPL",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "rlusd.investments",
+  "version": 0
+}
