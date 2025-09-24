@@ -1,0 +1,10 @@
+{
+  "address": "GCOAV6FVGBG74BPWPTSEM3JPX36ZEPP6QTKXJKRSZDCDPWVFFJI3COGU",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "flare-asset.com",
+  "version": 0
+}
