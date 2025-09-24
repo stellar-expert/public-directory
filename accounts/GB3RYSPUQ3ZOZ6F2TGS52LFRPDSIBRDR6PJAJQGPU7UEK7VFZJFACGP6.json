@@ -1,0 +1,10 @@
+{
+  "address": "GB3RYSPUQ3ZOZ6F2TGS52LFRPDSIBRDR6PJAJQGPU7UEK7VFZJFACGP6",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "nasdaq.network",
+  "version": 0
+}
