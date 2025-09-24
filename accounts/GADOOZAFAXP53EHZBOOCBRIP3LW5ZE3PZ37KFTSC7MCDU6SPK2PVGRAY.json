@@ -1,0 +1,10 @@
+{
+  "address": "GADOOZAFAXP53EHZBOOCBRIP3LW5ZE3PZ37KFTSC7MCDU6SPK2PVGRAY",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "grayscale.gold",
+  "version": 0
+}
