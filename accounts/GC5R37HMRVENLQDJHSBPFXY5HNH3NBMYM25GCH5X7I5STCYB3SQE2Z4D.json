@@ -1,0 +1,10 @@
+{
+  "address": "GC5R37HMRVENLQDJHSBPFXY5HNH3NBMYM25GCH5X7I5STCYB3SQE2Z4D",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "xau.lobstr.pro",
+  "version": 0
+}
