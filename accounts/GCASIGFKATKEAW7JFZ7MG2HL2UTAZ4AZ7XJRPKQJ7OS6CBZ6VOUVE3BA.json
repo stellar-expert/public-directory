@@ -1,0 +1,10 @@
+{
+  "address": "GCASIGFKATKEAW7JFZ7MG2HL2UTAZ4AZ7XJRPKQJ7OS6CBZ6VOUVE3BA",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ondo.exchange",
+  "version": 0
+}
