@@ -1,0 +1,10 @@
+{
+  "address": "GCKHRDSCUIYKFF3YKL7H4HRVDR6765OBXV4B5FTKYJ3Z3CCIM5AWEFUZ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "alphabetone.org",
+  "version": 0
+}
