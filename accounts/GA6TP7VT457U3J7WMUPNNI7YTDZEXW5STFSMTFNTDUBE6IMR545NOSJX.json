@@ -1,0 +1,10 @@
+{
+  "address": "GA6TP7VT457U3J7WMUPNNI7YTDZEXW5STFSMTFNTDUBE6IMR545NOSJX",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "amc.tomlhosting.co",
+  "version": 0
+}
