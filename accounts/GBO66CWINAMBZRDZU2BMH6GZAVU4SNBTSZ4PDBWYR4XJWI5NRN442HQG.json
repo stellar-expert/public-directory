@@ -1,0 +1,10 @@
+{
+  "address": "GBO66CWINAMBZRDZU2BMH6GZAVU4SNBTSZ4PDBWYR4XJWI5NRN442HQG",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "satoshi-pay.org",
+  "version": 0
+}
