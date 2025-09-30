@@ -1,0 +1,10 @@
+{
+  "address": "GBGULIRT6UCEFYSZUBRYLPECSLJUBVCS6DVV7QCICGGXLCZXMKLTF6FC",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "cardano-stellar.me",
+  "version": 0
+}
