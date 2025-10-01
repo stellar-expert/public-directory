@@ -1415,3 +1415,4 @@ blackrock.us.org
 qazempire.org
 vitol.financial
 soroban.pw
+flare-network.dev
