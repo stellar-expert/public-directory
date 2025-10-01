@@ -1,0 +1,10 @@
+{
+  "address": "GBPK77XKGO76QUHYKOXYHMPJOGDAN42DSJJ2Y7CBUECJTW7XGFBK2ALO",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-mainnet.com",
+  "version": 0
+}
