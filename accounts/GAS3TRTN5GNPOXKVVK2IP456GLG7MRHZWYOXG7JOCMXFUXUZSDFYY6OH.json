@@ -1,0 +1,10 @@
+{
+  "address": "GAS3TRTN5GNPOXKVVK2IP456GLG7MRHZWYOXG7JOCMXFUXUZSDFYY6OH",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "stellar-snap.com",
+  "version": 0
+}
