@@ -1,0 +1,10 @@
+{
+  "address": "GBDXJBHS3ORD5OJFAZAYFCKMTQZS3A77SWUSV34XIRI433AS3QTQLMXK",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "solana-stellar.com",
+  "version": 0
+}
