@@ -1,0 +1,10 @@
+{
+  "address": "GB6XJQRXCCLICYVWE57Q6TIYFQIVTUVHBCWQH3G76T65OPJC2FCQETVV",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "solanachain.dev",
+  "version": 0
+}
