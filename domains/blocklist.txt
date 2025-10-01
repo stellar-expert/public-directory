@@ -1417,3 +1417,4 @@ vitol.financial
 soroban.pw
 flare-network.dev
 trumptokens.net
+projectjura.com
