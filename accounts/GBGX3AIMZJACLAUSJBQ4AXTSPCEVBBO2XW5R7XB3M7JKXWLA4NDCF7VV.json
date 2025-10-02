@@ -1,0 +1,10 @@
+{
+  "address": "GBGX3AIMZJACLAUSJBQ4AXTSPCEVBBO2XW5R7XB3M7JKXWLA4NDCF7VV",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "soroban.cfd",
+  "version": 0
+}
