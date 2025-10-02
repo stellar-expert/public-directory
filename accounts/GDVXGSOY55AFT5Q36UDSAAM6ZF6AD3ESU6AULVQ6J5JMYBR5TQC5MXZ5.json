@@ -1,0 +1,10 @@
+{
+  "address": "GDVXGSOY55AFT5Q36UDSAAM6ZF6AD3ESU6AULVQ6J5JMYBR5TQC5MXZ5",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ton-stellar.com",
+  "version": 0
+}
