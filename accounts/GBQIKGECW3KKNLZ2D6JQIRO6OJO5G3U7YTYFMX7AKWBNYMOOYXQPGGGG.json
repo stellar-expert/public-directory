@@ -1,0 +1,10 @@
+{
+  "address": "GBQIKGECW3KKNLZ2D6JQIRO6OJO5G3U7YTYFMX7AKWBNYMOOYXQPGGGG",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "grokny.com",
+  "version": 0
+}
