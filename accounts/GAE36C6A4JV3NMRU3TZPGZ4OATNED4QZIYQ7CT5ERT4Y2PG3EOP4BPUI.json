@@ -1,0 +1,10 @@
+{
+  "address": "GAE36C6A4JV3NMRU3TZPGZ4OATNED4QZIYQ7CT5ERT4Y2PG3EOP4BPUI",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "tonstellar.com",
+  "version": 0
+}
