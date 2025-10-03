@@ -1,0 +1,10 @@
+{
+  "address": "GAF3G2W3QZGRSLUNZKQAT6LQCCCJ65VES3DNF2SQB3VZALSEZICANNUE",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "lvmh.netlify.app",
+  "version": 0
+}
