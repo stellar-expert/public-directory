@@ -1,0 +1,10 @@
+{
+  "address": "GDJZS6YVEVZ5S57TFVL5NY7IWKTXKYB7NOFKA2XOFXQMVAF7S4LP3SJE",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "polygon-stellar.com",
+  "version": 0
+}
