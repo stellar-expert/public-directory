@@ -1,0 +1,10 @@
+{
+  "address": "GAPUIMOZ3YTD244GFK4BQ3U5ZLRWEWBWSRLAOK7P4ESC5ELJQR2LLI3D",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "immutable-stellar.com",
+  "version": 0
+}
