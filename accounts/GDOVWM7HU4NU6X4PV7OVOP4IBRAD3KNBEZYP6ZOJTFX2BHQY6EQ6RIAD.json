@@ -1,0 +1,10 @@
+{
+  "address": "GDOVWM7HU4NU6X4PV7OVOP4IBRAD3KNBEZYP6ZOJTFX2BHQY6EQ6RIAD",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ethereumclassic-stellar.com",
+  "version": 0
+}
