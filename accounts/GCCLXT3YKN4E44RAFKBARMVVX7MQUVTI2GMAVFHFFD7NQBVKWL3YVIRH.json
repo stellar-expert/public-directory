@@ -1,0 +1,10 @@
+{
+  "address": "GCCLXT3YKN4E44RAFKBARMVVX7MQUVTI2GMAVFHFFD7NQBVKWL3YVIRH",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "litecoin-stellar.com",
+  "version": 0
+}
