@@ -1,0 +1,10 @@
+{
+  "address": "GBQWRMLGLEQPM7WAO4WYSWQ7X7SN4Q4QXLXIVMH3JXDGXSBQ7ACX4ANN",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ripple-stellar.com",
+  "version": 0
+}
