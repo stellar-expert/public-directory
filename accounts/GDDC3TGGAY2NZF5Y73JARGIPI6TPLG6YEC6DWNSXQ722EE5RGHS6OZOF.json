@@ -1,0 +1,10 @@
+{
+  "address": "GDDC3TGGAY2NZF5Y73JARGIPI6TPLG6YEC6DWNSXQ722EE5RGHS6OZOF",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "aptos-stellar.com",
+  "version": 0
+}
