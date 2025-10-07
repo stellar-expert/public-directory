@@ -1,0 +1,10 @@
+{
+  "address": "GD3L7TRQ5TSXSHHGOUGCQ272BKS5WC5PEB46XP5LT2EZKQUWSDVHCOUS",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "tron-stellar.com",
+  "version": 0
+}
