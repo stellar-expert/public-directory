@@ -1,0 +1,10 @@
+{
+  "address": "GCLJH44WSM6ABKLJVZKH5PLSKV2LS3C53ZXZWRG4GATHCEWD4OFKBFNL",
+  "name": "Scam",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-go.com",
+  "version": 0
+}
