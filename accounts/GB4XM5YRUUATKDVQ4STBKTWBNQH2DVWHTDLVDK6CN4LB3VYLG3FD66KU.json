@@ -1,0 +1,10 @@
+{
+  "address": "GB4XM5YRUUATKDVQ4STBKTWBNQH2DVWHTDLVDK6CN4LB3VYLG3FD66KU",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "whipcar-stellar.com",
+  "version": 0
+}
