@@ -1,0 +1,10 @@
+{
+  "address": "GBUCWBAECPXLJNN5IXM2N6RTGEWGOIDBJAOLMTPIOKJV2W3P3SOU4AVT",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-yaho.com",
+  "version": 0
+}
