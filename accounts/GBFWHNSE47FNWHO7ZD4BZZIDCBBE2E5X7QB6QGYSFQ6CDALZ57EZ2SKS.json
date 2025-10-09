@@ -1,0 +1,10 @@
+{
+  "address": "GBFWHNSE47FNWHO7ZD4BZZIDCBBE2E5X7QB6QGYSFQ6CDALZ57EZ2SKS",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "guardian-project.net",
+  "version": 0
+}
