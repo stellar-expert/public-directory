@@ -1,0 +1,10 @@
+{
+  "address": "GDXIKL466UJUASWGBHTTSRGKOTIPPEHCDVUCKHUS2WKE3MGTI2JBADLT",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "dlt-stellar.digital",
+  "version": 0
+}
