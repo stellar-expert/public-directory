@@ -1,0 +1,10 @@
+{
+  "address": "GDOZJIF44PIIG4NQCYJFFEGA5BZXXF4ZENDCVBXL3DSCV54PGPXFCOCP",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "stellarnet.token-swap.org",
+  "version": 0
+}
