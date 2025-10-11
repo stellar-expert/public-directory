@@ -1,0 +1,9 @@
+{
+  "address": "GC5IFSVZRU3IVH4HDHW6GGM6RGKVXM4UVPQ5SQHF5MZRTEWZFNYEQUOJ",
+  "name": "Money Laundering Affiliated Account",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "version": 0
+}
