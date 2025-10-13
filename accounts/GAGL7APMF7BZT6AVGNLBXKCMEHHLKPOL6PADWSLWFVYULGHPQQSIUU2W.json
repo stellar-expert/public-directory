@@ -1,0 +1,10 @@
+{
+  "address": "GAGL7APMF7BZT6AVGNLBXKCMEHHLKPOL6PADWSLWFVYULGHPQQSIUU2W",
+  "name": "Upbit ColdStorage",
+  "tags": [
+    "exchange",
+    "custodian"
+  ],
+  "domain": "upbit.com",
+  "version": 0
+}
