@@ -1,0 +1,10 @@
+{
+  "address": "GDBK3AHPQ7AO2U7JYEBFGJ2PBDVVFANHH4NQANDX6Q4GZ266WZ3IOIXN",
+  "name": "Bitstamp",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "bitstamp.net",
+  "version": 0
+}
