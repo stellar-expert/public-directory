@@ -1,0 +1,10 @@
+{
+  "address": "GBPMYFVA335LD6B6HSV4BXQLIL65B5W37V2T2XEXTQ2FLJYPSCOWA5GZ",
+  "name": "Binance ColdStorage",
+  "tags": [
+    "exchange",
+    "custodian"
+  ],
+  "domain": "binance.com",
+  "version": 0
+}
