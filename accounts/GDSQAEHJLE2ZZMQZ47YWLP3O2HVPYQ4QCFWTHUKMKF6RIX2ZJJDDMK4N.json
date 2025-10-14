@@ -1,9 +1,9 @@
 {
   "address": "GDSQAEHJLE2ZZMQZ47YWLP3O2HVPYQ4QCFWTHUKMKF6RIX2ZJJDDMK4N",
-  "name": "Centre Coldwallet",
+  "name": "Centre",
   "tags": [
-    "custodian"
+    "anchor"
   ],
-  "domain": "usdc.com",
-  "version": 0
+  "domain": "centre.io",
+  "version": 1
 }
