@@ -1,0 +1,10 @@
+{
+  "address": "GCNAJSJ6MQIHLPIYEFLRXDF3IPBP4ZECIGWSLUTNWZCW4VRMP3ITELON",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "elon-xbank.com",
+  "version": 0
+}
