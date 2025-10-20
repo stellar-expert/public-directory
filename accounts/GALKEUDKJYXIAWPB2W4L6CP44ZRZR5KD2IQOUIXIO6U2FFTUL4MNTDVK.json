@@ -1,0 +1,10 @@
+{
+  "address": "GALKEUDKJYXIAWPB2W4L6CP44ZRZR5KD2IQOUIXIO6U2FFTUL4MNTDVK",
+  "name": "NDAX",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "ndax.io",
+  "version": 0
+}
