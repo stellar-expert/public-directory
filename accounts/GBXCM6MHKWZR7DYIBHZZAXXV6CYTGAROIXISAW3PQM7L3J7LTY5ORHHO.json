@@ -1,0 +1,10 @@
+{
+  "address": "GBXCM6MHKWZR7DYIBHZZAXXV6CYTGAROIXISAW3PQM7L3J7LTY5ORHHO",
+  "name": "Kraken ColdStorage",
+  "tags": [
+    "exchange",
+    "custodian"
+  ],
+  "domain": "kraken.com",
+  "version": 0
+}
