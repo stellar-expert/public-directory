@@ -1,0 +1,10 @@
+{
+  "address": "GBMP2N7INAKJ3GUONXUTQVIYBXHZVMAQD7RIZQIJDV5HPMD7UPTLLKOO",
+  "name": "NDAX ColdStorage",
+  "tags": [
+    "exchange",
+    "custodian"
+  ],
+  "domain": "ndax.io",
+  "version": 0
+}
