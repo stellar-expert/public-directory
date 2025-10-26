@@ -1,0 +1,10 @@
+{
+  "address": "GBIA2CM2MLJY4C3SWFUDQLERAUZYKZETE6XXGL6A5CGEI4YOJWZQFEDL",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "federalreserve.fund",
+  "version": 0
+}
