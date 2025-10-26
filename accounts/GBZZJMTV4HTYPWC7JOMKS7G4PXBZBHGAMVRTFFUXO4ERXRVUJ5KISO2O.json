@@ -1,0 +1,10 @@
+{
+  "address": "GBZZJMTV4HTYPWC7JOMKS7G4PXBZBHGAMVRTFFUXO4ERXRVUJ5KISO2O",
+  "name": "Scam",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "iso20022stellar.org",
+  "version": 0
+}
