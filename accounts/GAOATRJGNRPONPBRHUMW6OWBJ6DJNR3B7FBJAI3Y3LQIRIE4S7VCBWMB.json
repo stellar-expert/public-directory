@@ -2,8 +2,9 @@
   "address": "GAOATRJGNRPONPBRHUMW6OWBJ6DJNR3B7FBJAI3Y3LQIRIE4S7VCBWMB",
   "name": "Normal Finance",
   "tags": [
-    "custodian"
+    "custodian",
+    "issuer"
   ],
   "domain": "normalfinance.io",
-  "version": 0
+  "version": 1
 }
