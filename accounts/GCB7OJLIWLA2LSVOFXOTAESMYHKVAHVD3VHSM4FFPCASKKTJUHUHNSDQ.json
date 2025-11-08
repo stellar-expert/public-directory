@@ -1,0 +1,10 @@
+{
+  "address": "GCB7OJLIWLA2LSVOFXOTAESMYHKVAHVD3VHSM4FFPCASKKTJUHUHNSDQ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "nasdaq.capital",
+  "version": 0
+}
