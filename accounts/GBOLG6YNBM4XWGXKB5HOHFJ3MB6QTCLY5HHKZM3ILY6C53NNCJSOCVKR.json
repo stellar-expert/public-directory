@@ -1,0 +1,10 @@
+{
+  "address": "GBOLG6YNBM4XWGXKB5HOHFJ3MB6QTCLY5HHKZM3ILY6C53NNCJSOCVKR",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "quanttum-stellar.com",
+  "version": 0
+}
