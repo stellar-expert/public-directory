@@ -1,0 +1,10 @@
+{
+  "address": "GDIT5IHMQCLIUFPBHM2FLVWRBOJI2DYR2O4NF433E5AOV4G2DMFXBVMX",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "rakutcorp-stellar.com",
+  "version": 0
+}
