@@ -5,5 +5,6 @@
     "sdf",
     "issuer"
   ],
-  "version": 0
+  "domain": "quest.stellar.org",
+  "version": 1
 }
