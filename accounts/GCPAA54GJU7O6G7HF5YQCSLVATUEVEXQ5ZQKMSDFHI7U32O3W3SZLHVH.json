@@ -1,0 +1,10 @@
+{
+  "address": "GCPAA54GJU7O6G7HF5YQCSLVATUEVEXQ5ZQKMSDFHI7U32O3W3SZLHVH",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "googlexlm.netlify.app",
+  "version": 0
+}
