@@ -1,0 +1,10 @@
+{
+  "address": "GAF6COSWZLGTKA32GAY4INZG63FTTUX3ZQB4HRA3ABC3Y2KBUTMEWHWI",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "alphabethub.org",
+  "version": 0
+}
