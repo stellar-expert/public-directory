@@ -1,0 +1,10 @@
+{
+  "address": "GBXOGOQQAMIGTND5KB2EYJNZFIWBS5EL434S4ORAPZK6YZGGRDHMVADS",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar.li",
+  "version": 0
+}
