@@ -1,0 +1,10 @@
+{
+  "address": "GBVSWW6HYMCTNHUNJLM3QPPJDK62DTB4F4F2SW4IE4U7KSHTKOVGJU6F",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stripestellar.org",
+  "version": 0
+}
