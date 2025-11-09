@@ -1,10 +1,11 @@
 {
   "address": "GDVKY2GU2DRXWTBEYJJWSFXIGBZV6AZNBVVSUHEPZI54LIS6BA7DVVSP",
-  "domain": "ntokens.com",
-  "name": "nTokens",
+  "name": "nTokens - Discontinued",
   "tags": [
     "anchor",
-    "issuer"
+    "issuer",
+    "unsafe"
   ],
-  "version": 0
+  "domain": "ntokens.com",
+  "version": 1
 }
