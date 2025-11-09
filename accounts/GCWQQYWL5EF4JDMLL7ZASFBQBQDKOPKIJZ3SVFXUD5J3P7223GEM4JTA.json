@@ -1,0 +1,10 @@
+{
+  "address": "GCWQQYWL5EF4JDMLL7ZASFBQBQDKOPKIJZ3SVFXUD5J3P7223GEM4JTA",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar.org.im",
+  "version": 0
+}
