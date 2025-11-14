@@ -1,0 +1,10 @@
+{
+  "address": "GB7GF6SWYVCYQ4NSQCV3HZK4B4JCZ7QXYNMBVQIDPFPUE7QFVDNW7YFM",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-jpmorgan.digital",
+  "version": 0
+}
