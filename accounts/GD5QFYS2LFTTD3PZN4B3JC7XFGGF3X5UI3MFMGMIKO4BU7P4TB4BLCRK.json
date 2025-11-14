@@ -1,0 +1,10 @@
+{
+  "address": "GD5QFYS2LFTTD3PZN4B3JC7XFGGF3X5UI3MFMGMIKO4BU7P4TB4BLCRK",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "blackrockfunds.capital",
+  "version": 0
+}
