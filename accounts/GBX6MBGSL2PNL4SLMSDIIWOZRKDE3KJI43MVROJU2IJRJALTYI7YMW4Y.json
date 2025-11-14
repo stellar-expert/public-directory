@@ -1,0 +1,10 @@
+{
+  "address": "GBX6MBGSL2PNL4SLMSDIIWOZRKDE3KJI43MVROJU2IJRJALTYI7YMW4Y",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "blackrockfinance.netlify.app",
+  "version": 0
+}
