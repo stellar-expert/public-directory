@@ -1,0 +1,10 @@
+{
+  "address": "GA3XVB5J5VQLSEYDV3KB3GLQHACJTSEL4SYNLAKST2IS2J2XN3EQJDJK",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "spacextoken.netlify.app",
+  "version": 0
+}
