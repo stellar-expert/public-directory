@@ -1,0 +1,10 @@
+{
+  "address": "GABLMPSNW7EELVTK36TVQ5S5T4PDMV2IWO6M6ICF4OCVBP4NJEZMDEYY",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "porschetoken.netlify.app",
+  "version": 0
+}
