@@ -1,0 +1,10 @@
+{
+  "address": "GBZ6YYSJHPGKFKPNBM52P5NZMLBYMC426U7QENXW2GHEXFDDJS2FQSFC",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "amazontok.netlify.app",
+  "version": 0
+}
