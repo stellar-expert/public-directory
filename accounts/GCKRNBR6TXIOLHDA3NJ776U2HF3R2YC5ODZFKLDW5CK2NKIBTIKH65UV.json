@@ -1,0 +1,10 @@
+{
+  "address": "GCKRNBR6TXIOLHDA3NJ776U2HF3R2YC5ODZFKLDW5CK2NKIBTIKH65UV",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ddtokens.netlify.app",
+  "version": 0
+}
