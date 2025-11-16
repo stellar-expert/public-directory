@@ -1,0 +1,10 @@
+{
+  "address": "GABJ3JPJXMAQGFSJOSTXKCRSOYT22OSVTCPAMTZSRXWXDWGSGASP5KE6",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "palantir-stellar.dev",
+  "version": 0
+}
