@@ -1,0 +1,10 @@
+{
+  "address": "GBYN7TK3H62ZRX4CYJKODDKUGLCMTZBQ3X67Q7BXTGMPHNHRK3CYMBTE",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ciscostellar.com",
+  "version": 0
+}
