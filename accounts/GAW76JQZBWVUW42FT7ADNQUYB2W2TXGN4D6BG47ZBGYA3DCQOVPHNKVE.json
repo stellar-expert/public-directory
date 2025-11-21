@@ -1,0 +1,10 @@
+{
+  "address": "GAW76JQZBWVUW42FT7ADNQUYB2W2TXGN4D6BG47ZBGYA3DCQOVPHNKVE",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "vechain.org",
+  "version": 0
+}
