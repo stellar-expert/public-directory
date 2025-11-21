@@ -1,0 +1,10 @@
+{
+  "address": "GCRRLXSEC6L7X5YDHL4GA52ALOW2X7LWUGKMBDD4GOVGFPEBTQERWVKA",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "metaxlm.netlify.app",
+  "version": 0
+}
