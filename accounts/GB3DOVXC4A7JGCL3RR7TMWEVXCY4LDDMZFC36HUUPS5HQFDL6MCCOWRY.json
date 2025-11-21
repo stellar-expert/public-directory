@@ -1,0 +1,10 @@
+{
+  "address": "GB3DOVXC4A7JGCL3RR7TMWEVXCY4LDDMZFC36HUUPS5HQFDL6MCCOWRY",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "youtubetoken.netlify.app",
+  "version": 0
+}
