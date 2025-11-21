@@ -1,0 +1,10 @@
+{
+  "address": "GACH5RMYXWCPIXQD772NN4RBOULFMW7F24KQOHDRRXCSY3CNNQCP6XRP",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ripple.com.im",
+  "version": 0
+}
