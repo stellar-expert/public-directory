@@ -1,0 +1,10 @@
+{
+  "address": "GD2KE7XPL2BK4CJODN33OO5I3PRIBXE3KKHHBW3O65TM4EM2PDUFSRTX",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "soroswap.live",
+  "version": 0
+}
