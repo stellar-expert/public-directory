@@ -1,0 +1,10 @@
+{
+  "address": "GCBHNFARIRNH7BRQVXZHENXGZUYXOSUNOVSSSGNOYDJC4AHOPJNGPVBH",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "snowhip-stellar.me",
+  "version": 0
+}
