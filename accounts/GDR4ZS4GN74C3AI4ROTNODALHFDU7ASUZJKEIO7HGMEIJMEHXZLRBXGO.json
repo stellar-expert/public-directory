@@ -1,0 +1,10 @@
+{
+  "address": "GDR4ZS4GN74C3AI4ROTNODALHFDU7ASUZJKEIO7HGMEIJMEHXZLRBXGO",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "kayak-stellar.com",
+  "version": 0
+}
