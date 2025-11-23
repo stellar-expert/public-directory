@@ -1,0 +1,10 @@
+{
+  "address": "GAJE4B2P2MGC32HVGWZHXGMQ7HIMIX2QHOTYE6LT6ACAEIWH6LOQ74RC",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "securityservice.xmint.io",
+  "version": 0
+}
