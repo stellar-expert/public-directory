@@ -1,0 +1,10 @@
+{
+  "address": "GDNK3CC3UW5WZLQX6GMMCYP4FQ7N5PF4GJTLEQ5Q3IXREKYDGZGQKLUM",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "lumen.exchange",
+  "version": 0
+}
