@@ -1,0 +1,10 @@
+{
+  "address": "GDIS5VHQ2N6B53ZLELDZOKIUXSWK36OL4ZEB2BMF73QUU37GWJC4PLTN",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "elonxbank.com",
+  "version": 0
+}
