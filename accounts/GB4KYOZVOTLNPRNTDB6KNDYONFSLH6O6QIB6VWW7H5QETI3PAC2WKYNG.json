@@ -1,0 +1,10 @@
+{
+  "address": "GB4KYOZVOTLNPRNTDB6KNDYONFSLH6O6QIB6VWW7H5QETI3PAC2WKYNG",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "lobstrproject.com",
+  "version": 0
+}
