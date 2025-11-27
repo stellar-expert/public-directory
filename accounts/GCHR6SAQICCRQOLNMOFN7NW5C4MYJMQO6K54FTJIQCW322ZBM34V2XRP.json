@@ -1,0 +1,10 @@
+{
+  "address": "GCHR6SAQICCRQOLNMOFN7NW5C4MYJMQO6K54FTJIQCW322ZBM34V2XRP",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ripplew.com",
+  "version": 0
+}
