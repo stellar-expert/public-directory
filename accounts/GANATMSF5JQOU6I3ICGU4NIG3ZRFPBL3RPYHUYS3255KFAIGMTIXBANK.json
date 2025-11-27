@@ -1,0 +1,10 @@
+{
+  "address": "GANATMSF5JQOU6I3ICGU4NIG3ZRFPBL3RPYHUYS3255KFAIGMTIXBANK",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "usbank.com.de",
+  "version": 0
+}
