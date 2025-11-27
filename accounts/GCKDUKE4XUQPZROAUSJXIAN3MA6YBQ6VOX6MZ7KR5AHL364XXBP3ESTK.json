@@ -1,0 +1,10 @@
+{
+  "address": "GCKDUKE4XUQPZROAUSJXIAN3MA6YBQ6VOX6MZ7KR5AHL364XXBP3ESTK",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stocks.foundation",
+  "version": 0
+}
