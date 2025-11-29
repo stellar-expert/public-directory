@@ -1,0 +1,10 @@
+{
+  "address": "GBQYTZQHIHEP4GAACBCDM4X7OGMHULRUMX5B7L5WANGVXISDWJTUPM25",
+  "name": "Changelly",
+  "tags": [
+    "exchange",
+    "memo-required"
+  ],
+  "domain": "changelly.com",
+  "version": 0
+}
