@@ -1,0 +1,10 @@
+{
+  "address": "GDWHHESAKSQB76VUHTW7LU5IFEBX2IFRKPIFQ3DEALYPMNXYG3BT3RC3",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "bis-projects.com",
+  "version": 0
+}
