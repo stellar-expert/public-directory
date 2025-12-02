@@ -1,0 +1,10 @@
+{
+  "address": "GCXX55H6SKWCE72MCUSPNKCSMXSOSFIABBZXFZKWXQSAZ2ZUCKKUFPTZ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "teslatech.stellarmint.io",
+  "version": 0
+}
