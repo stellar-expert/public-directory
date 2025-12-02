@@ -1,0 +1,10 @@
+{
+  "address": "GBSDARINMRYDRZP3RXIU3ZKMIFN5KCNNA3NUCQGY5QKEGABY4HLMUPQH",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "vault.stellarhub.org",
+  "version": 0
+}
