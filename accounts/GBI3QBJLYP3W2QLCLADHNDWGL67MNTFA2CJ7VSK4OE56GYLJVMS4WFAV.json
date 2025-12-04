@@ -1,0 +1,10 @@
+{
+  "address": "GBI3QBJLYP3W2QLCLADHNDWGL67MNTFA2CJ7VSK4OE56GYLJVMS4WFAV",
+  "name": "Spam",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "project.fednow-stellar.com",
+  "version": 0
+}
