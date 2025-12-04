@@ -1,0 +1,10 @@
+{
+  "address": "GBLFPOK4MLMPK7K6RXEQKOTP7MRKG4CMNK2SU7FGALT3EVWB7XTV5EXP",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "lobstr.sbs",
+  "version": 0
+}
