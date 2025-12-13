@@ -1,0 +1,10 @@
+{
+  "address": "GAQZWFAYPLKBXZTLHC3DLWHCKKZHXI2AWFL3CVB2JEVCBR64ANIN6KRG",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "centrio.netlify.app",
+  "version": 0
+}
