@@ -1,0 +1,10 @@
+{
+  "address": "GBWNVA3ZAEF2VFFINJYTTDYXEZP7OUPHN6YUM7RSEVS5VZUHVJ2Y67XI",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "txse-stellar.com",
+  "version": 0
+}
