@@ -1,0 +1,10 @@
+{
+  "address": "GC5NEGRDYMENLK47I2CBQXLIQIOQ73QGFYHJ3LD5E566YBGOX5GERYBD",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "euronet.sbs",
+  "version": 0
+}
