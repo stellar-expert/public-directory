@@ -1,0 +1,10 @@
+{
+  "address": "GDCCDNIR4QPOVG36LBF7NYIDN5OVHK4TA7M33VMDT63L2PHK3NV6S5Z6",
+  "name": "Scam",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "masguardian.org",
+  "version": 0
+}
