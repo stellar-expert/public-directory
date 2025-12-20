@@ -1,0 +1,10 @@
+{
+  "address": "GATE2DBDPQFAHA3DM45EUWPNK5CVMZEIZNBV44BZI6J2RWTIOYNRIFDO",
+  "name": "Scam",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "masguardian.org",
+  "version": 0
+}
