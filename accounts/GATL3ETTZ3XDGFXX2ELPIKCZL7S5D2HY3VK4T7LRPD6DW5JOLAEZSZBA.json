@@ -2,9 +2,8 @@
   "address": "GATL3ETTZ3XDGFXX2ELPIKCZL7S5D2HY3VK4T7LRPD6DW5JOLAEZSZBA",
   "name": "SDF Direct Development (Hot 1)",
   "tags": [
-    "sdf",
-    "custodian"
+    "sdf"
   ],
   "domain": "stellar.org",
-  "version": 1
+  "version": 2
 }
