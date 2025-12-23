@@ -1,10 +1,10 @@
 {
   "address": "GCVJDBALC2RQFLD2HYGQGWNFZBCOD2CPOTN3LE7FWRZ44H2WRAVZLFCU",
-  "domain": "stellar.org",
-  "name": "SDF Ecosystem Support - Developer Support",
+  "name": "SDF Growth 1",
   "tags": [
     "sdf",
     "custodian"
   ],
-  "version": 1
+  "domain": "stellar.org",
+  "version": 2
 }
