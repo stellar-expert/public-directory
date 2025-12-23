@@ -1,10 +1,10 @@
 {
   "address": "GDKIJJIKXLOM2NRMPNQZUUYK24ZPVFC6426GZAEP3KUK6KEJLACCWNMX",
-  "domain": "stellar.org",
-  "name": "SDF User Acquisition - In-App Distribution",
+  "name": "SDF Product and Innovation 2",
   "tags": [
     "sdf",
     "custodian"
   ],
-  "version": 1
+  "domain": "stellar.org",
+  "version": 2
 }
