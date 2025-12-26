@@ -1,10 +1,9 @@
 {
   "address": "GDOISRM5PBXLZZ5ESJNZTD7TDJSQOKOPX5APIXX4NOPEVEGXBRHWYKKI",
-  "name": "SCAM=Counterfeiter",
+  "name": "SCAM",
   "tags": [
-    "malicious",
-    "sdf"
+    "malicious"
   ],
   "domain": "projectsfms.com",
-  "version": 0
+  "version": 1
 }
