@@ -1,0 +1,10 @@
+{
+  "address": "GCMRTZWL3I3VDMBYYI7EKJJQ6I3CJ2G2YRVAR3F54EOXSLYHPQ7VCEMI",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-classic.netlify.app",
+  "version": 0
+}
