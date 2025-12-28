@@ -1,0 +1,10 @@
+{
+  "address": "GDCGGK6RDOLKP5AWWPRJBJ5OWCEYLQ6BJFWKMEUCWXTFHV7IPKIZOPTX",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "optimux.dev",
+  "version": 0
+}
