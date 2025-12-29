@@ -1,0 +1,10 @@
+{
+  "address": "CBKGPWGKSKZF52CFHMTRR23TBWTPMRDIYZ4O2P5VS65BMHYH4DXMCJZC",
+  "name": "Reflector Oracle",
+  "tags": [
+    "infra",
+    "application"
+  ],
+  "domain": "reflector.network",
+  "version": 0
+}
