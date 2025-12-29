@@ -1,0 +1,10 @@
+{
+  "address": "CBNGTWIVRCD4FOJ24FGAKI6I5SDAXI7A4GWKSQS7E6UYSR4E4OHRI2JX",
+  "name": "Reflector Subscriptions",
+  "tags": [
+    "infra",
+    "application"
+  ],
+  "domain": "reflector.network",
+  "version": 0
+}
