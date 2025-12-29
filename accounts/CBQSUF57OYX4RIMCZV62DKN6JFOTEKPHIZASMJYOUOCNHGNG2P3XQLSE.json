@@ -1,0 +1,10 @@
+{
+  "address": "CBQSUF57OYX4RIMCZV62DKN6JFOTEKPHIZASMJYOUOCNHGNG2P3XQLSE",
+  "name": "Reflector DAO",
+  "tags": [
+    "infra",
+    "custodian"
+  ],
+  "domain": "reflector.network",
+  "version": 0
+}
