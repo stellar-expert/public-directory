@@ -1,0 +1,10 @@
+{
+  "address": "CCJTPZVVYSHDFTJV23GXXCAGDIIA2GCC36T35L6WMB4VT3NR4R6NRHLG",
+  "name": "Stellarcarbon SinkContract",
+  "tags": [
+    "application",
+    "infra"
+  ],
+  "domain": "stellarcarbon.io",
+  "version": 0
+}
