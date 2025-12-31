@@ -1,0 +1,11 @@
+{
+  "address": "GCBOATLWKXACOWKRRWORARDI2HFDSYPALMTS23YBZKHOB6XLW6CARBON",
+  "name": "CARBON Issuer",
+  "tags": [
+    "issuer",
+    "infra",
+    "application"
+  ],
+  "domain": "stellarcarbon.io",
+  "version": 0
+}
