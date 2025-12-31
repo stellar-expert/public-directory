@@ -1,0 +1,10 @@
+{
+  "address": "GCAAGKM5LU5OOFADWSIQIEY36S2F6RCPVIWJUQ7ETZE44HFZS5NW5NVG",
+  "name": "Stellarcarbon Payment Recipient",
+  "tags": [
+    "application",
+    "infra"
+  ],
+  "domain": "stellarcarbon.io",
+  "version": 0
+}
