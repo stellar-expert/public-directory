@@ -1,0 +1,11 @@
+{
+  "address": "GC7CDWMCWNCY7JYUW5UBEOLNBSTNDKKZSFTHKGZNPPSOXLFYFX3CSINK",
+  "name": "CarbonSINK Issuer",
+  "tags": [
+    "issuer",
+    "application",
+    "infra"
+  ],
+  "domain": "stellarcarbon.io",
+  "version": 0
+}
