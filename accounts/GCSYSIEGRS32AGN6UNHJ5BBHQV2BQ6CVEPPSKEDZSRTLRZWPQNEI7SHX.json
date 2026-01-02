@@ -1,0 +1,10 @@
+{
+  "address": "GCSYSIEGRS32AGN6UNHJ5BBHQV2BQ6CVEPPSKEDZSRTLRZWPQNEI7SHX",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "shx.network",
+  "version": 0
+}
