@@ -1,0 +1,9 @@
+{
+  "address": "GCSAPFRBLFRTVSLOMHZE6OKNBIDXNQUNYVTIF47W7THYWHJQ6F2KCI27",
+  "name": "Spam",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "version": 0
+}
