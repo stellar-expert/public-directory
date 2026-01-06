@@ -1,0 +1,10 @@
+{
+  "address": "GBO5D46W7MSERKIL4WAIGFSMNMBHSTVTQCZPN3SMOUEIEA46GKOWYXRP",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "yfchain.io",
+  "version": 0
+}
