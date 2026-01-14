@@ -1,0 +1,10 @@
+{
+  "address": "GAZLZKPXQUEBK7Q75HPXTXYDHOK56AL5ODLN2VK4PXP7SPSV65WIBOPJ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "masguardian.org",
+  "version": 0
+}
