@@ -3,8 +3,9 @@
   "name": "Kale",
   "tags": [
     "application",
-    "defi"
+    "defi",
+    "issuer"
   ],
   "domain": "kalefarm.xyz",
-  "version": 0
+  "version": 1
 }
