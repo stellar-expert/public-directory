@@ -1,0 +1,9 @@
+{
+  "address": "GAHZ2UENZUAGWZSQZMQHHAID5GXLC6C6YMNPLJ7WVMAWUAXRFU5AJVXG",
+  "name": "Money Laundering Account",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "version": 0
+}
