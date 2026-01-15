@@ -1,0 +1,10 @@
+{
+  "address": "GCQNP74LWNI2EKRYLPM4XAAFYJY6MVSD3RQIEQGHVULVGXDO35ZBKVF6",
+  "name": "Money Laundering Account",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellar-newera.io",
+  "version": 0
+}
