@@ -1,0 +1,10 @@
+{
+  "address": "GAPDAVIFXDDYVX4LIE34LHBZNYAQRX4AFSLVHGRPMIA7Q4CHWPXBJVVS",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "xlm-native.com",
+  "version": 0
+}
