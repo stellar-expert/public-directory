@@ -1,0 +1,10 @@
+{
+  "address": "GAEMO3HIPYRUFIYAR6RNBVKYKN746LOJD3IUIS4AM7MIIHFTMRGNNHYD",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "coinbase.ceo",
+  "version": 0
+}
