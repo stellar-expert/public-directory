@@ -1,0 +1,10 @@
+{
+  "address": "GCZWF34WESUT74UNNLXTIS2ILRQVA7CLG3CWYQERLMYOXRFJOB2PT23E",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "yusdc.lobstr.space",
+  "version": 0
+}
