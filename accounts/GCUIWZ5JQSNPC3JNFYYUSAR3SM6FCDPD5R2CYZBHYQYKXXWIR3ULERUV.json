@@ -1,0 +1,10 @@
+{
+  "address": "GCUIWZ5JQSNPC3JNFYYUSAR3SM6FCDPD5R2CYZBHYQYKXXWIR3ULERUV",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "xlmorg.netlify.app",
+  "version": 0
+}
