@@ -1,0 +1,10 @@
+{
+  "address": "GC6MXJQSFOSCS2QST2YSHGAGVG6DXTIJ263FYJRMWURR3HVYYFI2PHP2",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "defi.stellarhub.org",
+  "version": 0
+}
