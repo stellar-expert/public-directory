@@ -1,0 +1,10 @@
+{
+  "address": "GBNW7FS6ABHM5Z2XKSGAWXGA2TNVYSFSICZOM43JMJANOBYLJTJ53XLM",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stocks.kraken.com.bz",
+  "version": 0
+}
