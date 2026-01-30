@@ -1,0 +1,10 @@
+{
+  "address": "GBNFC5HINXCTDUKFA2YQXJMWRKYTFFYBMRYP2OOXSGRKVL4ZQMGQPAHN",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "xlm.stellarhub.org",
+  "version": 0
+}
