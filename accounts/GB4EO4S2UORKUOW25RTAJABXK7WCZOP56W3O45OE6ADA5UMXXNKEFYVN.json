@@ -1,0 +1,10 @@
+{
+  "address": "GB4EO4S2UORKUOW25RTAJABXK7WCZOP56W3O45OE6ADA5UMXXNKEFYVN",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "salt.stellar-commodities.com",
+  "version": 0
+}
