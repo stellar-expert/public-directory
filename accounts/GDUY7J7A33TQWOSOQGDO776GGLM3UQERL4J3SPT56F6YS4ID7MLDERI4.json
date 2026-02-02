@@ -1,10 +1,10 @@
 {
   "address": "GDUY7J7A33TQWOSOQGDO776GGLM3UQERL4J3SPT56F6YS4ID7MLDERI4",
-  "name": "SDF Growth, Assets, & Liquidity",
+  "name": "SDF Growth 3",
   "tags": [
     "sdf",
     "custodian"
   ],
   "domain": "stellar.org",
-  "version": 2
+  "version": 3
 }
