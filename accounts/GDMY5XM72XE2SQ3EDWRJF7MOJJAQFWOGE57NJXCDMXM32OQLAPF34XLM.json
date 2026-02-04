@@ -1,0 +1,10 @@
+{
+  "address": "GDMY5XM72XE2SQ3EDWRJF7MOJJAQFWOGE57NJXCDMXM32OQLAPF34XLM",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "native-stellar.com",
+  "version": 0
+}
