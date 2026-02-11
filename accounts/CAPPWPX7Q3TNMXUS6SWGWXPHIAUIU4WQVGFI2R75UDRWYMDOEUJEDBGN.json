@@ -1,9 +1,9 @@
 {
   "address": "CAPPWPX7Q3TNMXUS6SWGWXPHIAUIU4WQVGFI2R75UDRWYMDOEUJEDBGN",
-  "name": " Tokenized Blend's EURC",
+  "name": "Tokenized Blend's EURC",
   "tags": [
     "defi"
   ],
   "domain": "vaults.xbull.io",
-  "version": 0
+  "version": 1
 }
