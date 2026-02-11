@@ -1,9 +1,9 @@
 {
   "address": "GA57KXF2UAGURRYK4LKTO4BO2JASL2PQCO2C53XUNK5G4CXX6QAL6QNR",
-  "name": "XBull - Blended USDC",
+  "name": "XBull - bUSDC / bEURC",
   "tags": [
     "defi"
   ],
   "domain": "stellar.xbull.io",
-  "version": 0
+  "version": 1
 }
