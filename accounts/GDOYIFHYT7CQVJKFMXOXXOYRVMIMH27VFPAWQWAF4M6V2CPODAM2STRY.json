@@ -1,10 +1,9 @@
 {
   "address": "GDOYIFHYT7CQVJKFMXOXXOYRVMIMH27VFPAWQWAF4M6V2CPODAM2STRY",
-  "name": "Scam",
+  "name": "Trybal - Out of Service",
   "tags": [
-    "malicious",
     "unsafe"
   ],
   "domain": "trybal.network",
-  "version": 0
+  "version": 1
 }
