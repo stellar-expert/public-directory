@@ -1,0 +1,10 @@
+{
+  "address": "CBWP275BNGLHWFTQVB6QHA67MLX7WTX6YZ5LNSUVOK7W2TMKWX7OPYOJ",
+  "name": "StellarBroker Router",
+  "tags": [
+    "defi",
+    "infra"
+  ],
+  "domain": "stellar.broker",
+  "version": 0
+}
