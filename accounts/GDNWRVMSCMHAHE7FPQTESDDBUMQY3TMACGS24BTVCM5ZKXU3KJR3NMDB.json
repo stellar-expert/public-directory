@@ -1,11 +1,10 @@
 {
   "address": "GDNWRVMSCMHAHE7FPQTESDDBUMQY3TMACGS24BTVCM5ZKXU3KJR3NMDB",
-  "domain": "blockchain.com",
   "name": "Blockchain.com",
   "tags": [
     "wallet",
-    "exchange",
-    "unsafe"
+    "exchange"
   ],
-  "version": 1
+  "domain": "blockchain.com",
+  "version": 2
 }
