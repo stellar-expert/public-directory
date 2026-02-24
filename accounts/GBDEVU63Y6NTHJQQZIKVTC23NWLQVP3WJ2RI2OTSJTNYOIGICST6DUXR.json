@@ -1,11 +1,12 @@
 {
   "address": "GBDEVU63Y6NTHJQQZIKVTC23NWLQVP3WJ2RI2OTSJTNYOIGICST6DUXR",
-  "domain": "apay.io",
-  "name": "Papaya",
+  "name": "Papaya - Discontinued",
   "tags": [
     "anchor",
     "issuer",
-    "memo-required"
+    "memo-required",
+    "unsafe"
   ],
-  "version": 1
+  "domain": "apay.io",
+  "version": 2
 }
