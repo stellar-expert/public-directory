@@ -1,0 +1,10 @@
+{
+  "address": "GCYHKFHLUGSBMQS3ZLOFESGKHJQQRVF7XN3VFSZGSLJROOGEFDTSAQUA",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "aqua-network.org",
+  "version": 0
+}
