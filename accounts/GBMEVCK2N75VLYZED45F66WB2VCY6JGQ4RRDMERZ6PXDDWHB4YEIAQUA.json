@@ -1,0 +1,10 @@
+{
+  "address": "GBMEVCK2N75VLYZED45F66WB2VCY6JGQ4RRDMERZ6PXDDWHB4YEIAQUA",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "aquapools.network",
+  "version": 0
+}
