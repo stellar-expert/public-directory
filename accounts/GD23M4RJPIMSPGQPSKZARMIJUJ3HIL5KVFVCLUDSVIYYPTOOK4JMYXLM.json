@@ -1,0 +1,10 @@
+{
+  "address": "GD23M4RJPIMSPGQPSKZARMIJUJ3HIL5KVFVCLUDSVIYYPTOOK4JMYXLM",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ultrastellar.dev",
+  "version": 0
+}
