@@ -1,0 +1,10 @@
+{
+  "address": "GCTG4YT2ZTYRODK5JCXFJ6V7P6HMQ62L27PPG5UGK57VUFDJ7DFDGBPZ",
+  "name": "Zeam.Money",
+  "tags": [
+    "anchor",
+    "issuer"
+  ],
+  "domain": "zeam.money",
+  "version": 0
+}
