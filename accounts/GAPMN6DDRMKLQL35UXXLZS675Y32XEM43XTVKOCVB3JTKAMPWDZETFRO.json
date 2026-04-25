@@ -1,0 +1,10 @@
+{
+  "address": "GAPMN6DDRMKLQL35UXXLZS675Y32XEM43XTVKOCVB3JTKAMPWDZETFRO",
+  "name": "Scam",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "cmc-stellar.com",
+  "version": 0
+}
