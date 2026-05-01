@@ -1,0 +1,10 @@
+{
+  "address": "GCLFMBAFL7RTZAO5VYDAILKUVD7BDPCDIGVURKUDC5QLRCMXQN7EONDO",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "finance-ondo.com",
+  "version": 0
+}
