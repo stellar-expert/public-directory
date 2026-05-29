@@ -1,0 +1,10 @@
+{
+  "address": "GA2YRLEC6MKZBCUZVFI3YTXYJQFELO4HMBO2BVTKV7NJS6O6SW6W2AOL",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "dtcc.markets",
+  "version": 0
+}
