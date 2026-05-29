@@ -1,0 +1,10 @@
+{
+  "address": "GBU4U745FKZTTDJKIND67PEPM366WLW2HYXHIGX7RY5IWOE25YFVDTCC",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "dtccstellar.com",
+  "version": 0
+}
