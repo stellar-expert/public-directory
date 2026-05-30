@@ -1,0 +1,10 @@
+{
+  "address": "GC4OCRZ6K55SLY4MU626XEEERNSYOQU6HQ3RZ5DYCFBMJOUUQNXII5OO",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ledgerscan.dtcc.markets",
+  "version": 0
+}
