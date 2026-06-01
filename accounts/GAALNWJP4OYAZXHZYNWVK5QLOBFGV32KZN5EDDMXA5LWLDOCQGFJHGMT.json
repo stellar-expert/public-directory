@@ -1,0 +1,10 @@
+{
+  "address": "GAALNWJP4OYAZXHZYNWVK5QLOBFGV32KZN5EDDMXA5LWLDOCQGFJHGMT",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "russell.dtcc.markets",
+  "version": 0
+}
