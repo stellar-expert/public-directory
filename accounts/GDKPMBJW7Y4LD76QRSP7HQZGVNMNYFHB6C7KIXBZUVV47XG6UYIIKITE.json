@@ -1,0 +1,10 @@
+{
+  "address": "GDKPMBJW7Y4LD76QRSP7HQZGVNMNYFHB6C7KIXBZUVV47XG6UYIIKITE",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "ai.dtcc.markets",
+  "version": 0
+}
