@@ -1,0 +1,10 @@
+{
+  "address": "GBX7XCWI3ZLDZ72WHNLDM4P2SFXZQMVQJAN37BWHWGP2DWZ3BW5N5USD",
+  "name": "Fraud",
+  "tags": [
+    "unsafe",
+    "malicious"
+  ],
+  "domain": "mgusdstellar.org",
+  "version": 0
+}
