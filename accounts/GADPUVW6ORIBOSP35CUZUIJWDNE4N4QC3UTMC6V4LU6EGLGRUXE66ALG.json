@@ -1,0 +1,10 @@
+{
+  "address": "GADPUVW6ORIBOSP35CUZUIJWDNE4N4QC3UTMC6V4LU6EGLGRUXE66ALG",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "algorand.im",
+  "version": 0
+}
