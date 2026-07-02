@@ -1,0 +1,10 @@
+{
+  "address": "GCAEB3I55QH5MG7OW4SRBR3TPCDHPECW7Q4ZKL3NQY3PY75QZ3YT6JRK",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "bond.ultrastellar.org",
+  "version": 0
+}
