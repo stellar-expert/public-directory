@@ -1,0 +1,10 @@
+{
+  "address": "GBVVYDFLEBUNSWBHNJS3RSLLJTMJ46PJXTTMA3V6YJ4KDRMAEJIDUSDC",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "circle-usd.com",
+  "version": 0
+}
