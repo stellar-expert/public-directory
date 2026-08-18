@@ -2,8 +2,8 @@
   "address": "GASN5BMEH7LVU22RWWDUXB3MGRJYKPG7ZURBRZF4CR5XQRR6KVPIWHFV",
   "name": "Scam",
   "tags": [
-    "unsafe",
-    "malicious"
+    "malicious",
+    "unsafe"
   ],
   "domain": "qfs.global-stellarmint.com",
   "version": 0
