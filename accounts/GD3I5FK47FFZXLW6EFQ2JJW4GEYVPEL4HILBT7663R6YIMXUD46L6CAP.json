@@ -1,0 +1,10 @@
+{
+  "address": "GD3I5FK47FFZXLW6EFQ2JJW4GEYVPEL4HILBT7663R6YIMXUD46L6CAP",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "stellarprotocol.vercel.app",
+  "version": 0
+}
