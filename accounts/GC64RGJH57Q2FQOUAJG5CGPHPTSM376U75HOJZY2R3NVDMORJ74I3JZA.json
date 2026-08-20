@@ -1,0 +1,10 @@
+{
+  "address": "GC64RGJH57Q2FQOUAJG5CGPHPTSM376U75HOJZY2R3NVDMORJ74I3JZA",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "wlfi.lumenloop.org",
+  "version": 0
+}
