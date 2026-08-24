@@ -1,9 +1,9 @@
 {
   "address": "GDYUTHY75A7WUZJQDPOP66FB32BOYGZRXHWTWO4Q6LQTANT5X3V5HNFA",
-  "name": "Scam",
+  "name": "Sodax",
   "tags": [
-    "malicious",
-    "unsafe"
+    "issuer"
   ],
-  "version": 0
+  "domain": "www.sodax.com",
+  "version": 1
 }
