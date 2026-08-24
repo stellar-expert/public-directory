@@ -1,0 +1,10 @@
+{
+  "address": "GAQMRADLXUUBWNZOLQCC4LMNP5SRVKG23FABWTRJ4SCRQC6L4R5K2VUZ",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "lumenloop.org",
+  "version": 0
+}
