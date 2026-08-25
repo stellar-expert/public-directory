@@ -2,9 +2,8 @@
   "address": "CCLWL5NYSV2WJQ3VBU44AMDHEVKEPA45N2QP2LL62O3JVKPGWWAQUVAG",
   "name": "Allbridge",
   "tags": [
-    "malicious",
-    "unsafe"
+    "defi"
   ],
   "domain": "allbridge.io",
-  "version": 0
+  "version": 1
 }
