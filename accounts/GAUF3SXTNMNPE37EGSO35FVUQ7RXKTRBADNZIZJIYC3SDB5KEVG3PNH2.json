@@ -2,8 +2,8 @@
   "address": "GAUF3SXTNMNPE37EGSO35FVUQ7RXKTRBADNZIZJIYC3SDB5KEVG3PNH2",
   "name": "Scam",
   "tags": [
-    "malicious",
-    "unsafe"
+    "unsafe",
+    "malicious"
   ],
   "domain": "xrp-network.work",
   "version": 0
