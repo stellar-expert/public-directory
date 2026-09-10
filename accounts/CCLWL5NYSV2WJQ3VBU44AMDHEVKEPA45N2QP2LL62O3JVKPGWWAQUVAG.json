@@ -1,9 +1,9 @@
 {
   "address": "CCLWL5NYSV2WJQ3VBU44AMDHEVKEPA45N2QP2LL62O3JVKPGWWAQUVAG",
-  "name": "Allbridge",
+  "name": "HOT Bridge Treasury",
   "tags": [
-    "defi"
+    "infra"
   ],
-  "domain": "allbridge.io",
-  "version": 1
+  "domain": "near.com",
+  "version": 2
 }
