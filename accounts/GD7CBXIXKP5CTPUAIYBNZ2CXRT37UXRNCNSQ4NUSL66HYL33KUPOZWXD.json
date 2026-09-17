@@ -1,9 +1,10 @@
 {
   "address": "GD7CBXIXKP5CTPUAIYBNZ2CXRT37UXRNCNSQ4NUSL66HYL33KUPOZWXD",
-  "name": "Serial SCAM Minter's controlled account",
+  "name": "Scam",
   "tags": [
     "malicious",
     "unsafe"
   ],
+  "domain": "stellar-openai.com",
   "version": 0
 }
