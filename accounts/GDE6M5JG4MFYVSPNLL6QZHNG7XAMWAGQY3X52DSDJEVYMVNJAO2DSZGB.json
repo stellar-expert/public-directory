@@ -1,10 +1,9 @@
 {
   "address": "GDE6M5JG4MFYVSPNLL6QZHNG7XAMWAGQY3X52DSDJEVYMVNJAO2DSZGB",
-  "name": "SCAM-Counterfeiter",
+  "name": "Scam",
   "tags": [
-    "malicious",
-    "unsafe"
+    "unsafe",
+    "malicious"
   ],
-  "domain": "quantumassets.finance",
   "version": 0
 }
