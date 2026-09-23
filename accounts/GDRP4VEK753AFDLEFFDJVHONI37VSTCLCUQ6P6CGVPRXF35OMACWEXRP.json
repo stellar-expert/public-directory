@@ -1,10 +1,9 @@
 {
   "address": "GDRP4VEK753AFDLEFFDJVHONI37VSTCLCUQ6P6CGVPRXF35OMACWEXRP",
-  "name": "SCAM Counterfeiter",
+  "name": "Scam",
   "tags": [
     "malicious",
     "unsafe"
   ],
-  "domain": "iso20022stellar.com",
   "version": 0
 }
