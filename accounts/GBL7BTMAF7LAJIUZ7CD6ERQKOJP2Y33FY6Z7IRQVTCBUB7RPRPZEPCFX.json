@@ -1,0 +1,10 @@
+{
+  "address": "GBL7BTMAF7LAJIUZ7CD6ERQKOJP2Y33FY6Z7IRQVTCBUB7RPRPZEPCFX",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "fxdao.pages.dev",
+  "version": 0
+}
