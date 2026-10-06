@@ -1,9 +1,9 @@
 {
   "address": "GCRPQTREUFE5LIGKYSFO24QMCQ44OCGVD6XYS7AVTZRPQIBCSXB2XWPN",
-  "name": "SCAM",
+  "name": "Scam",
   "tags": [
-    "malicious",
-    "unsafe"
+    "unsafe",
+    "malicious"
   ],
   "domain": "mercadosbitcoin.com",
   "version": 0
