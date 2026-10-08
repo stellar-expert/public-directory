@@ -1,0 +1,10 @@
+{
+  "address": "CDQBHEUGLDHMSUHG4IH33RJBUTMNCZOT4JIAQR4WZFRDZW6DR6S32ZLZ",
+  "name": "ChainLink Oracle",
+  "tags": [
+    "infra",
+    "defi"
+  ],
+  "domain": "chain.link",
+  "version": 0
+}
