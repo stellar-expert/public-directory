@@ -1,0 +1,10 @@
+{
+  "address": "CAKA3NBYPC6OBEUEGNIYGNYG3ES2GPQK736B5SR7ASGUXRDAKXI2JCQI",
+  "name": "Chainlink - Proxy",
+  "tags": [
+    "infra",
+    "application"
+  ],
+  "domain": "chain.link",
+  "version": 0
+}
