@@ -1,0 +1,10 @@
+{
+  "address": "CCW67TSZV3SSS2HXMBQ5JFGCKJNXKZM7UQUWUZPUTHXSTZLEO7SJMI75",
+  "name": "Circle USDC",
+  "tags": [
+    "anchor",
+    "issuer"
+  ],
+  "domain": "circle.com",
+  "version": 0
+}
