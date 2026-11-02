@@ -1,0 +1,9 @@
+{
+  "address": "GBC7NMD7UZBEEV2ONYQ73X3J6PBOCE57W574F5GIRFM7XX4L6BVGQQLU",
+  "name": "Address Poisoning Attacker",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "version": 0
+}
