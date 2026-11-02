@@ -1,0 +1,10 @@
+{
+  "address": "GDYPH5YDMBB32TCVBUPGZNB2QAQI3YIURM4YYD3ZBSNWSMPSQLQ7SWAP",
+  "name": "Fraud",
+  "tags": [
+    "malicious",
+    "unsafe"
+  ],
+  "domain": "lumenswap.org",
+  "version": 0
+}
