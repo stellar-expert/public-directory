@@ -1,0 +1,9 @@
+{
+  "address": "GAP2ACGH3O6TRFAERGM4USJ6XWU3U2BFIK224JPV6NI3CUNEEEGTBTFB",
+  "name": "BLNT issuer",
+  "tags": [
+    "issuer"
+  ],
+  "domain": "blnt.trade",
+  "version": 0
+}
