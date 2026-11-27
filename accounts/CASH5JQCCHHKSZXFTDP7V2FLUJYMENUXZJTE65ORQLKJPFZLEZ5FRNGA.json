@@ -1,0 +1,10 @@
+{
+  "address": "CASH5JQCCHHKSZXFTDP7V2FLUJYMENUXZJTE65ORQLKJPFZLEZ5FRNGA",
+  "name": "StellarBroker Router",
+  "tags": [
+    "defi",
+    "application"
+  ],
+  "domain": "stellar.broker",
+  "version": 0
+}
